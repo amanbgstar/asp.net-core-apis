@@ -38,6 +38,7 @@ namespace MixedAssignment.Controllers.User
             {
                 throw new ArgumentNullException(nameof(user));
             }
+
             var UserAdded = _userService.UserAdd(user);
             if (UserAdded != null)
             {

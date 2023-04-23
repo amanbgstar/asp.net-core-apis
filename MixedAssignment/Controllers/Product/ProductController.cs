@@ -71,6 +71,7 @@ namespace MixedAssignment.Controllers.Product
             {
                 return Ok(productData);
             }
+
             return BadRequest("Someting went wrong");
         }
 
@@ -86,6 +87,7 @@ namespace MixedAssignment.Controllers.Product
             {
                 return BadRequest("No Product Found");
             }
+
             return Ok($"Product Id {id}, product Deleted! ");
         }
     }

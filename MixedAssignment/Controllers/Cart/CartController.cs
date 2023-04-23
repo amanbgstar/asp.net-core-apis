@@ -24,12 +24,12 @@ namespace MixedAssignment.Controllers.Cart
         //add product to cart table 
         [HttpGet("userid")]
         [Authorize]
-        public IActionResult AddProductToCart(int userid, int productid, int qty )
+        public IActionResult AddProductToCart(int userid, int productid, int qty)
         {
             var response = new CartResponce();
             var returnData = _cartService.AddProductToCart(userid, productid, qty);
             //0 means quantities are not sufficient
-            if(returnData == 0)
+            if (returnData == 0)
             {
                 var product = _productService.GetProductById(productid);
                 response.Stock = product.Stock;
