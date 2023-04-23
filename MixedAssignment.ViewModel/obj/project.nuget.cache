@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "PppQSxN5JuqEs14fygZR0lYkFENvvfxhFvtMC+p+azdiMROCHGNY93wRDW5xf7tkxM0QKD4m/0i7koQ3f3dVmw==",
+  "dgSpecHash": "DWQSHrqY1NACHy1bUqCxFIDVi7Nj+QWkvKkWCOl8dl4PaqzJfr3FmdGbD17gfNa5lxFhU+mnd7D66UQ04XGdWg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\HP\\Downloads\\Home Work Monday18\\MixedAssignment\\MixedAssignment.ViewModel\\MixedAssignment.ViewModel.csproj",
+  "projectFilePath": "C:\\Users\\HP\\Desktop\\asp.net-core-apis\\MixedAssignment.ViewModel\\MixedAssignment.ViewModel.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\HP\\.nuget\\packages\\automapper\\12.0.0\\automapper.12.0.0.nupkg.sha512",
     "C:\\Users\\HP\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.0\\automapper.extensions.microsoft.dependencyinjection.12.0.0.nupkg.sha512",

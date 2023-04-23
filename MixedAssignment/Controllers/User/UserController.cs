@@ -29,6 +29,7 @@ namespace MixedAssignment.Controllers.User
         }
 
         //Registeration 
+        // api use for registration
         [HttpPost("register")]
         public async Task<IActionResult> Register([FromBody] UserRegisterVM user)
         {
@@ -53,6 +54,7 @@ namespace MixedAssignment.Controllers.User
 
 
         //Login 
+        // api use for login
         [HttpPost("login")]
         public async Task<IActionResult> Login([FromBody] UserLoginVM user)
         {
