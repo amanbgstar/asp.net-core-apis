@@ -1,0 +1,84 @@
+C:\Users\amangaidhane\Desktop\MixedAssignment_101022\MixedAssignment\MixedAssignment.ViewModel\bin\Debug\net6.0\MixedAssignment.ViewModel.deps.json
+C:\Users\amangaidhane\Desktop\MixedAssignment_101022\MixedAssignment\MixedAssignment.ViewModel\bin\Debug\net6.0\MixedAssignment.ViewModel.dll
+C:\Users\amangaidhane\Desktop\MixedAssignment_101022\MixedAssignment\MixedAssignment.ViewModel\bin\Debug\net6.0\MixedAssignment.ViewModel.pdb
+C:\Users\amangaidhane\Desktop\MixedAssignment_101022\MixedAssignment\MixedAssignment.ViewModel\obj\Debug\net6.0\MixedAssignment.ViewModel.csproj.AssemblyReference.cache
+C:\Users\amangaidhane\Desktop\MixedAssignment_101022\MixedAssignment\MixedAssignment.ViewModel\obj\Debug\net6.0\MixedAssignment.ViewModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amangaidhane\Desktop\MixedAssignment_101022\MixedAssignment\MixedAssignment.ViewModel\obj\Debug\net6.0\MixedAssignment.ViewModel.AssemblyInfoInputs.cache
+C:\Users\amangaidhane\Desktop\MixedAssignment_101022\MixedAssignment\MixedAssignment.ViewModel\obj\Debug\net6.0\MixedAssignment.ViewModel.AssemblyInfo.cs
+C:\Users\amangaidhane\Desktop\MixedAssignment_101022\MixedAssignment\MixedAssignment.ViewModel\obj\Debug\net6.0\MixedAssignment.ViewModel.csproj.CoreCompileInputs.cache
+C:\Users\amangaidhane\Desktop\MixedAssignment_101022\MixedAssignment\MixedAssignment.ViewModel\obj\Debug\net6.0\MixedAssignment.ViewModel.dll
+C:\Users\amangaidhane\Desktop\MixedAssignment_101022\MixedAssignment\MixedAssignment.ViewModel\obj\Debug\net6.0\refint\MixedAssignment.ViewModel.dll
+C:\Users\amangaidhane\Desktop\MixedAssignment_101022\MixedAssignment\MixedAssignment.ViewModel\obj\Debug\net6.0\MixedAssignment.ViewModel.pdb
+C:\Users\amangaidhane\Desktop\MixedAssignment_101022\MixedAssignment\MixedAssignment.ViewModel\obj\Debug\net6.0\ref\MixedAssignment.ViewModel.dll
+C:\Users\amangaidhane\Desktop\MixedAssignment_101022\New\MixedAssignment\MixedAssignment.ViewModel\bin\Debug\net6.0\MixedAssignment.ViewModel.deps.json
+C:\Users\amangaidhane\Desktop\MixedAssignment_101022\New\MixedAssignment\MixedAssignment.ViewModel\bin\Debug\net6.0\MixedAssignment.ViewModel.dll
+C:\Users\amangaidhane\Desktop\MixedAssignment_101022\New\MixedAssignment\MixedAssignment.ViewModel\bin\Debug\net6.0\MixedAssignment.ViewModel.pdb
+C:\Users\amangaidhane\Desktop\MixedAssignment_101022\New\MixedAssignment\MixedAssignment.ViewModel\obj\Debug\net6.0\MixedAssignment.ViewModel.csproj.AssemblyReference.cache
+C:\Users\amangaidhane\Desktop\MixedAssignment_101022\New\MixedAssignment\MixedAssignment.ViewModel\obj\Debug\net6.0\MixedAssignment.ViewModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amangaidhane\Desktop\MixedAssignment_101022\New\MixedAssignment\MixedAssignment.ViewModel\obj\Debug\net6.0\MixedAssignment.ViewModel.AssemblyInfoInputs.cache
+C:\Users\amangaidhane\Desktop\MixedAssignment_101022\New\MixedAssignment\MixedAssignment.ViewModel\obj\Debug\net6.0\MixedAssignment.ViewModel.AssemblyInfo.cs
+C:\Users\amangaidhane\Desktop\MixedAssignment_101022\New\MixedAssignment\MixedAssignment.ViewModel\obj\Debug\net6.0\MixedAssignment.ViewModel.csproj.CoreCompileInputs.cache
+C:\Users\amangaidhane\Desktop\MixedAssignment_101022\New\MixedAssignment\MixedAssignment.ViewModel\obj\Debug\net6.0\MixedAssignment.ViewModel.dll
+C:\Users\amangaidhane\Desktop\MixedAssignment_101022\New\MixedAssignment\MixedAssignment.ViewModel\obj\Debug\net6.0\refint\MixedAssignment.ViewModel.dll
+C:\Users\amangaidhane\Desktop\MixedAssignment_101022\New\MixedAssignment\MixedAssignment.ViewModel\obj\Debug\net6.0\MixedAssignment.ViewModel.pdb
+C:\Users\amangaidhane\Desktop\MixedAssignment_101022\New\MixedAssignment\MixedAssignment.ViewModel\obj\Debug\net6.0\ref\MixedAssignment.ViewModel.dll
+C:\Users\amangaidhane\Desktop\MixedAssignment_101022\New\Backend\MixedAssignment\MixedAssignment.ViewModel\bin\Debug\net6.0\MixedAssignment.ViewModel.deps.json
+C:\Users\amangaidhane\Desktop\MixedAssignment_101022\New\Backend\MixedAssignment\MixedAssignment.ViewModel\bin\Debug\net6.0\MixedAssignment.ViewModel.dll
+C:\Users\amangaidhane\Desktop\MixedAssignment_101022\New\Backend\MixedAssignment\MixedAssignment.ViewModel\bin\Debug\net6.0\MixedAssignment.ViewModel.pdb
+C:\Users\amangaidhane\Desktop\MixedAssignment_101022\New\Backend\MixedAssignment\MixedAssignment.ViewModel\obj\Debug\net6.0\MixedAssignment.ViewModel.csproj.AssemblyReference.cache
+C:\Users\amangaidhane\Desktop\MixedAssignment_101022\New\Backend\MixedAssignment\MixedAssignment.ViewModel\obj\Debug\net6.0\MixedAssignment.ViewModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amangaidhane\Desktop\MixedAssignment_101022\New\Backend\MixedAssignment\MixedAssignment.ViewModel\obj\Debug\net6.0\MixedAssignment.ViewModel.AssemblyInfoInputs.cache
+C:\Users\amangaidhane\Desktop\MixedAssignment_101022\New\Backend\MixedAssignment\MixedAssignment.ViewModel\obj\Debug\net6.0\MixedAssignment.ViewModel.AssemblyInfo.cs
+C:\Users\amangaidhane\Desktop\MixedAssignment_101022\New\Backend\MixedAssignment\MixedAssignment.ViewModel\obj\Debug\net6.0\MixedAssignment.ViewModel.csproj.CoreCompileInputs.cache
+C:\Users\amangaidhane\Desktop\MixedAssignment_101022\New\Backend\MixedAssignment\MixedAssignment.ViewModel\obj\Debug\net6.0\MixedAssignment.ViewModel.dll
+C:\Users\amangaidhane\Desktop\MixedAssignment_101022\New\Backend\MixedAssignment\MixedAssignment.ViewModel\obj\Debug\net6.0\refint\MixedAssignment.ViewModel.dll
+C:\Users\amangaidhane\Desktop\MixedAssignment_101022\New\Backend\MixedAssignment\MixedAssignment.ViewModel\obj\Debug\net6.0\MixedAssignment.ViewModel.pdb
+C:\Users\amangaidhane\Desktop\MixedAssignment_101022\New\Backend\MixedAssignment\MixedAssignment.ViewModel\obj\Debug\net6.0\ref\MixedAssignment.ViewModel.dll
+C:\Users\HP\Desktop\ECOMM\MixedAssignment\MixedAssignment.ViewModel\bin\Debug\net6.0\MixedAssignment.ViewModel.deps.json
+C:\Users\HP\Desktop\ECOMM\MixedAssignment\MixedAssignment.ViewModel\bin\Debug\net6.0\MixedAssignment.ViewModel.dll
+C:\Users\HP\Desktop\ECOMM\MixedAssignment\MixedAssignment.ViewModel\bin\Debug\net6.0\MixedAssignment.ViewModel.pdb
+C:\Users\HP\Desktop\ECOMM\MixedAssignment\MixedAssignment.ViewModel\obj\Debug\net6.0\MixedAssignment.ViewModel.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\ECOMM\MixedAssignment\MixedAssignment.ViewModel\obj\Debug\net6.0\MixedAssignment.ViewModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\ECOMM\MixedAssignment\MixedAssignment.ViewModel\obj\Debug\net6.0\MixedAssignment.ViewModel.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\ECOMM\MixedAssignment\MixedAssignment.ViewModel\obj\Debug\net6.0\MixedAssignment.ViewModel.AssemblyInfo.cs
+C:\Users\HP\Desktop\ECOMM\MixedAssignment\MixedAssignment.ViewModel\obj\Debug\net6.0\MixedAssignment.ViewModel.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\ECOMM\MixedAssignment\MixedAssignment.ViewModel\obj\Debug\net6.0\MixedAssignment.ViewModel.dll
+C:\Users\HP\Desktop\ECOMM\MixedAssignment\MixedAssignment.ViewModel\obj\Debug\net6.0\refint\MixedAssignment.ViewModel.dll
+C:\Users\HP\Desktop\ECOMM\MixedAssignment\MixedAssignment.ViewModel\obj\Debug\net6.0\MixedAssignment.ViewModel.pdb
+C:\Users\HP\Desktop\ECOMM\MixedAssignment\MixedAssignment.ViewModel\obj\Debug\net6.0\ref\MixedAssignment.ViewModel.dll
+C:\Users\amangaidhane\Desktop\ECom\Home Work Monday16\MixedAssignment\MixedAssignment.ViewModel\bin\Debug\net6.0\MixedAssignment.ViewModel.deps.json
+C:\Users\amangaidhane\Desktop\ECom\Home Work Monday16\MixedAssignment\MixedAssignment.ViewModel\bin\Debug\net6.0\MixedAssignment.ViewModel.dll
+C:\Users\amangaidhane\Desktop\ECom\Home Work Monday16\MixedAssignment\MixedAssignment.ViewModel\bin\Debug\net6.0\MixedAssignment.ViewModel.pdb
+C:\Users\amangaidhane\Desktop\ECom\Home Work Monday16\MixedAssignment\MixedAssignment.ViewModel\obj\Debug\net6.0\MixedAssignment.ViewModel.csproj.AssemblyReference.cache
+C:\Users\amangaidhane\Desktop\ECom\Home Work Monday16\MixedAssignment\MixedAssignment.ViewModel\obj\Debug\net6.0\MixedAssignment.ViewModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amangaidhane\Desktop\ECom\Home Work Monday16\MixedAssignment\MixedAssignment.ViewModel\obj\Debug\net6.0\MixedAssignment.ViewModel.AssemblyInfoInputs.cache
+C:\Users\amangaidhane\Desktop\ECom\Home Work Monday16\MixedAssignment\MixedAssignment.ViewModel\obj\Debug\net6.0\MixedAssignment.ViewModel.AssemblyInfo.cs
+C:\Users\amangaidhane\Desktop\ECom\Home Work Monday16\MixedAssignment\MixedAssignment.ViewModel\obj\Debug\net6.0\MixedAssignment.ViewModel.csproj.CoreCompileInputs.cache
+C:\Users\amangaidhane\Desktop\ECom\Home Work Monday16\MixedAssignment\MixedAssignment.ViewModel\obj\Debug\net6.0\MixedAssignment.ViewModel.dll
+C:\Users\amangaidhane\Desktop\ECom\Home Work Monday16\MixedAssignment\MixedAssignment.ViewModel\obj\Debug\net6.0\refint\MixedAssignment.ViewModel.dll
+C:\Users\amangaidhane\Desktop\ECom\Home Work Monday16\MixedAssignment\MixedAssignment.ViewModel\obj\Debug\net6.0\MixedAssignment.ViewModel.pdb
+C:\Users\amangaidhane\Desktop\ECom\Home Work Monday16\MixedAssignment\MixedAssignment.ViewModel\obj\Debug\net6.0\ref\MixedAssignment.ViewModel.dll
+C:\Users\amangaidhane\Desktop\ECom\Home Work Monday18\MixedAssignment\MixedAssignment.ViewModel\bin\Debug\net6.0\MixedAssignment.ViewModel.deps.json
+C:\Users\amangaidhane\Desktop\ECom\Home Work Monday18\MixedAssignment\MixedAssignment.ViewModel\bin\Debug\net6.0\MixedAssignment.ViewModel.dll
+C:\Users\amangaidhane\Desktop\ECom\Home Work Monday18\MixedAssignment\MixedAssignment.ViewModel\bin\Debug\net6.0\MixedAssignment.ViewModel.pdb
+C:\Users\amangaidhane\Desktop\ECom\Home Work Monday18\MixedAssignment\MixedAssignment.ViewModel\obj\Debug\net6.0\MixedAssignment.ViewModel.csproj.AssemblyReference.cache
+C:\Users\amangaidhane\Desktop\ECom\Home Work Monday18\MixedAssignment\MixedAssignment.ViewModel\obj\Debug\net6.0\MixedAssignment.ViewModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amangaidhane\Desktop\ECom\Home Work Monday18\MixedAssignment\MixedAssignment.ViewModel\obj\Debug\net6.0\MixedAssignment.ViewModel.AssemblyInfoInputs.cache
+C:\Users\amangaidhane\Desktop\ECom\Home Work Monday18\MixedAssignment\MixedAssignment.ViewModel\obj\Debug\net6.0\MixedAssignment.ViewModel.AssemblyInfo.cs
+C:\Users\amangaidhane\Desktop\ECom\Home Work Monday18\MixedAssignment\MixedAssignment.ViewModel\obj\Debug\net6.0\MixedAssignment.ViewModel.csproj.CoreCompileInputs.cache
+C:\Users\amangaidhane\Desktop\ECom\Home Work Monday18\MixedAssignment\MixedAssignment.ViewModel\obj\Debug\net6.0\MixedAssignment.ViewModel.dll
+C:\Users\amangaidhane\Desktop\ECom\Home Work Monday18\MixedAssignment\MixedAssignment.ViewModel\obj\Debug\net6.0\refint\MixedAssignment.ViewModel.dll
+C:\Users\amangaidhane\Desktop\ECom\Home Work Monday18\MixedAssignment\MixedAssignment.ViewModel\obj\Debug\net6.0\MixedAssignment.ViewModel.pdb
+C:\Users\amangaidhane\Desktop\ECom\Home Work Monday18\MixedAssignment\MixedAssignment.ViewModel\obj\Debug\net6.0\ref\MixedAssignment.ViewModel.dll
+C:\Users\HP\Downloads\Home Work Monday18\MixedAssignment\MixedAssignment.ViewModel\bin\Debug\net6.0\MixedAssignment.ViewModel.deps.json
+C:\Users\HP\Downloads\Home Work Monday18\MixedAssignment\MixedAssignment.ViewModel\bin\Debug\net6.0\MixedAssignment.ViewModel.dll
+C:\Users\HP\Downloads\Home Work Monday18\MixedAssignment\MixedAssignment.ViewModel\bin\Debug\net6.0\MixedAssignment.ViewModel.pdb
+C:\Users\HP\Downloads\Home Work Monday18\MixedAssignment\MixedAssignment.ViewModel\obj\Debug\net6.0\MixedAssignment.ViewModel.csproj.AssemblyReference.cache
+C:\Users\HP\Downloads\Home Work Monday18\MixedAssignment\MixedAssignment.ViewModel\obj\Debug\net6.0\MixedAssignment.ViewModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Downloads\Home Work Monday18\MixedAssignment\MixedAssignment.ViewModel\obj\Debug\net6.0\MixedAssignment.ViewModel.AssemblyInfoInputs.cache
+C:\Users\HP\Downloads\Home Work Monday18\MixedAssignment\MixedAssignment.ViewModel\obj\Debug\net6.0\MixedAssignment.ViewModel.AssemblyInfo.cs
+C:\Users\HP\Downloads\Home Work Monday18\MixedAssignment\MixedAssignment.ViewModel\obj\Debug\net6.0\MixedAssignment.ViewModel.csproj.CoreCompileInputs.cache
+C:\Users\HP\Downloads\Home Work Monday18\MixedAssignment\MixedAssignment.ViewModel\obj\Debug\net6.0\MixedAssignment.ViewModel.dll
+C:\Users\HP\Downloads\Home Work Monday18\MixedAssignment\MixedAssignment.ViewModel\obj\Debug\net6.0\refint\MixedAssignment.ViewModel.dll
+C:\Users\HP\Downloads\Home Work Monday18\MixedAssignment\MixedAssignment.ViewModel\obj\Debug\net6.0\MixedAssignment.ViewModel.pdb
+C:\Users\HP\Downloads\Home Work Monday18\MixedAssignment\MixedAssignment.ViewModel\obj\Debug\net6.0\ref\MixedAssignment.ViewModel.dll

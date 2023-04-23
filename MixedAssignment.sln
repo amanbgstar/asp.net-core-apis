@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MixedAssignment", "MixedAssignment\MixedAssignment.csproj", "{D3F6E8D6-AB26-4BDA-9CE8-0001CA1324CD}"
+	ProjectSection(ProjectDependencies) = postProject
+		{660263BD-399A-4456-80EE-3DF1DC4B951C} = {660263BD-399A-4456-80EE-3DF1DC4B951C}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MixedAssignment.Domain", "MixedAssignment.Domain\MixedAssignment.Domain.csproj", "{660263BD-399A-4456-80EE-3DF1DC4B951C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MixedAssignment.Repository", "MixedAssignment.Repository\MixedAssignment.Repository.csproj", "{164B473C-85C3-4443-9BEF-B3E3E941F0DB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MixedAssignment.Service", "MixedAssignment.Service\MixedAssignment.Service.csproj", "{8421A65A-878D-4B01-ACEC-74DBE36A0025}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MixedAssignment.ViewModel", "MixedAssignment.ViewModel\MixedAssignment.ViewModel.csproj", "{9070D240-9AAA-4AD0-A108-D0C92A90C012}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D3F6E8D6-AB26-4BDA-9CE8-0001CA1324CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3F6E8D6-AB26-4BDA-9CE8-0001CA1324CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3F6E8D6-AB26-4BDA-9CE8-0001CA1324CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3F6E8D6-AB26-4BDA-9CE8-0001CA1324CD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{660263BD-399A-4456-80EE-3DF1DC4B951C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{660263BD-399A-4456-80EE-3DF1DC4B951C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{660263BD-399A-4456-80EE-3DF1DC4B951C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{660263BD-399A-4456-80EE-3DF1DC4B951C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{164B473C-85C3-4443-9BEF-B3E3E941F0DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{164B473C-85C3-4443-9BEF-B3E3E941F0DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{164B473C-85C3-4443-9BEF-B3E3E941F0DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{164B473C-85C3-4443-9BEF-B3E3E941F0DB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8421A65A-878D-4B01-ACEC-74DBE36A0025}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8421A65A-878D-4B01-ACEC-74DBE36A0025}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8421A65A-878D-4B01-ACEC-74DBE36A0025}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8421A65A-878D-4B01-ACEC-74DBE36A0025}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9070D240-9AAA-4AD0-A108-D0C92A90C012}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9070D240-9AAA-4AD0-A108-D0C92A90C012}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9070D240-9AAA-4AD0-A108-D0C92A90C012}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9070D240-9AAA-4AD0-A108-D0C92A90C012}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C301945B-C17D-42A1-BAD1-9D2AA71AA1C8}
+	EndGlobalSection
+EndGlobal

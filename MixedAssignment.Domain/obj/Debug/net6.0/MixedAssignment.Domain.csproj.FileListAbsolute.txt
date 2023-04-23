@@ -1,0 +1,98 @@
+C:\Users\amangaidhane\Desktop\MixedAssignment_101022\MixedAssignment\MixedAssignment.Domain\bin\Debug\net6.0\MixedAssignment.Domain.deps.json
+C:\Users\amangaidhane\Desktop\MixedAssignment_101022\MixedAssignment\MixedAssignment.Domain\bin\Debug\net6.0\MixedAssignment.Domain.runtimeconfig.json
+C:\Users\amangaidhane\Desktop\MixedAssignment_101022\MixedAssignment\MixedAssignment.Domain\bin\Debug\net6.0\MixedAssignment.Domain.dll
+C:\Users\amangaidhane\Desktop\MixedAssignment_101022\MixedAssignment\MixedAssignment.Domain\bin\Debug\net6.0\MixedAssignment.Domain.pdb
+C:\Users\amangaidhane\Desktop\MixedAssignment_101022\MixedAssignment\MixedAssignment.Domain\obj\Debug\net6.0\MixedAssignment.Domain.csproj.AssemblyReference.cache
+C:\Users\amangaidhane\Desktop\MixedAssignment_101022\MixedAssignment\MixedAssignment.Domain\obj\Debug\net6.0\MixedAssignment.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amangaidhane\Desktop\MixedAssignment_101022\MixedAssignment\MixedAssignment.Domain\obj\Debug\net6.0\MixedAssignment.Domain.AssemblyInfoInputs.cache
+C:\Users\amangaidhane\Desktop\MixedAssignment_101022\MixedAssignment\MixedAssignment.Domain\obj\Debug\net6.0\MixedAssignment.Domain.AssemblyInfo.cs
+C:\Users\amangaidhane\Desktop\MixedAssignment_101022\MixedAssignment\MixedAssignment.Domain\obj\Debug\net6.0\MixedAssignment.Domain.csproj.CoreCompileInputs.cache
+C:\Users\amangaidhane\Desktop\MixedAssignment_101022\MixedAssignment\MixedAssignment.Domain\obj\Debug\net6.0\MixedAssignment.Domain.dll
+C:\Users\amangaidhane\Desktop\MixedAssignment_101022\MixedAssignment\MixedAssignment.Domain\obj\Debug\net6.0\refint\MixedAssignment.Domain.dll
+C:\Users\amangaidhane\Desktop\MixedAssignment_101022\MixedAssignment\MixedAssignment.Domain\obj\Debug\net6.0\MixedAssignment.Domain.pdb
+C:\Users\amangaidhane\Desktop\MixedAssignment_101022\MixedAssignment\MixedAssignment.Domain\obj\Debug\net6.0\MixedAssignment.Domain.genruntimeconfig.cache
+C:\Users\amangaidhane\Desktop\MixedAssignment_101022\MixedAssignment\MixedAssignment.Domain\obj\Debug\net6.0\ref\MixedAssignment.Domain.dll
+C:\Users\amangaidhane\Desktop\MixedAssignment_101022\New\MixedAssignment\MixedAssignment.Domain\bin\Debug\net6.0\MixedAssignment.Domain.deps.json
+C:\Users\amangaidhane\Desktop\MixedAssignment_101022\New\MixedAssignment\MixedAssignment.Domain\bin\Debug\net6.0\MixedAssignment.Domain.runtimeconfig.json
+C:\Users\amangaidhane\Desktop\MixedAssignment_101022\New\MixedAssignment\MixedAssignment.Domain\bin\Debug\net6.0\MixedAssignment.Domain.dll
+C:\Users\amangaidhane\Desktop\MixedAssignment_101022\New\MixedAssignment\MixedAssignment.Domain\bin\Debug\net6.0\MixedAssignment.Domain.pdb
+C:\Users\amangaidhane\Desktop\MixedAssignment_101022\New\MixedAssignment\MixedAssignment.Domain\obj\Debug\net6.0\MixedAssignment.Domain.csproj.AssemblyReference.cache
+C:\Users\amangaidhane\Desktop\MixedAssignment_101022\New\MixedAssignment\MixedAssignment.Domain\obj\Debug\net6.0\MixedAssignment.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amangaidhane\Desktop\MixedAssignment_101022\New\MixedAssignment\MixedAssignment.Domain\obj\Debug\net6.0\MixedAssignment.Domain.AssemblyInfoInputs.cache
+C:\Users\amangaidhane\Desktop\MixedAssignment_101022\New\MixedAssignment\MixedAssignment.Domain\obj\Debug\net6.0\MixedAssignment.Domain.AssemblyInfo.cs
+C:\Users\amangaidhane\Desktop\MixedAssignment_101022\New\MixedAssignment\MixedAssignment.Domain\obj\Debug\net6.0\MixedAssignment.Domain.csproj.CoreCompileInputs.cache
+C:\Users\amangaidhane\Desktop\MixedAssignment_101022\New\MixedAssignment\MixedAssignment.Domain\obj\Debug\net6.0\MixedAssignment.Domain.dll
+C:\Users\amangaidhane\Desktop\MixedAssignment_101022\New\MixedAssignment\MixedAssignment.Domain\obj\Debug\net6.0\refint\MixedAssignment.Domain.dll
+C:\Users\amangaidhane\Desktop\MixedAssignment_101022\New\MixedAssignment\MixedAssignment.Domain\obj\Debug\net6.0\MixedAssignment.Domain.pdb
+C:\Users\amangaidhane\Desktop\MixedAssignment_101022\New\MixedAssignment\MixedAssignment.Domain\obj\Debug\net6.0\MixedAssignment.Domain.genruntimeconfig.cache
+C:\Users\amangaidhane\Desktop\MixedAssignment_101022\New\MixedAssignment\MixedAssignment.Domain\obj\Debug\net6.0\ref\MixedAssignment.Domain.dll
+C:\Users\amangaidhane\Desktop\MixedAssignment_101022\New\Backend\MixedAssignment\MixedAssignment.Domain\bin\Debug\net6.0\MixedAssignment.Domain.deps.json
+C:\Users\amangaidhane\Desktop\MixedAssignment_101022\New\Backend\MixedAssignment\MixedAssignment.Domain\bin\Debug\net6.0\MixedAssignment.Domain.runtimeconfig.json
+C:\Users\amangaidhane\Desktop\MixedAssignment_101022\New\Backend\MixedAssignment\MixedAssignment.Domain\bin\Debug\net6.0\MixedAssignment.Domain.dll
+C:\Users\amangaidhane\Desktop\MixedAssignment_101022\New\Backend\MixedAssignment\MixedAssignment.Domain\bin\Debug\net6.0\MixedAssignment.Domain.pdb
+C:\Users\amangaidhane\Desktop\MixedAssignment_101022\New\Backend\MixedAssignment\MixedAssignment.Domain\obj\Debug\net6.0\MixedAssignment.Domain.csproj.AssemblyReference.cache
+C:\Users\amangaidhane\Desktop\MixedAssignment_101022\New\Backend\MixedAssignment\MixedAssignment.Domain\obj\Debug\net6.0\MixedAssignment.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amangaidhane\Desktop\MixedAssignment_101022\New\Backend\MixedAssignment\MixedAssignment.Domain\obj\Debug\net6.0\MixedAssignment.Domain.AssemblyInfoInputs.cache
+C:\Users\amangaidhane\Desktop\MixedAssignment_101022\New\Backend\MixedAssignment\MixedAssignment.Domain\obj\Debug\net6.0\MixedAssignment.Domain.AssemblyInfo.cs
+C:\Users\amangaidhane\Desktop\MixedAssignment_101022\New\Backend\MixedAssignment\MixedAssignment.Domain\obj\Debug\net6.0\MixedAssignment.Domain.csproj.CoreCompileInputs.cache
+C:\Users\amangaidhane\Desktop\MixedAssignment_101022\New\Backend\MixedAssignment\MixedAssignment.Domain\obj\Debug\net6.0\MixedAssignment.Domain.dll
+C:\Users\amangaidhane\Desktop\MixedAssignment_101022\New\Backend\MixedAssignment\MixedAssignment.Domain\obj\Debug\net6.0\refint\MixedAssignment.Domain.dll
+C:\Users\amangaidhane\Desktop\MixedAssignment_101022\New\Backend\MixedAssignment\MixedAssignment.Domain\obj\Debug\net6.0\MixedAssignment.Domain.pdb
+C:\Users\amangaidhane\Desktop\MixedAssignment_101022\New\Backend\MixedAssignment\MixedAssignment.Domain\obj\Debug\net6.0\MixedAssignment.Domain.genruntimeconfig.cache
+C:\Users\amangaidhane\Desktop\MixedAssignment_101022\New\Backend\MixedAssignment\MixedAssignment.Domain\obj\Debug\net6.0\ref\MixedAssignment.Domain.dll
+C:\Users\HP\Desktop\ECOMM\MixedAssignment\MixedAssignment.Domain\bin\Debug\net6.0\MixedAssignment.Domain.deps.json
+C:\Users\HP\Desktop\ECOMM\MixedAssignment\MixedAssignment.Domain\bin\Debug\net6.0\MixedAssignment.Domain.runtimeconfig.json
+C:\Users\HP\Desktop\ECOMM\MixedAssignment\MixedAssignment.Domain\bin\Debug\net6.0\MixedAssignment.Domain.dll
+C:\Users\HP\Desktop\ECOMM\MixedAssignment\MixedAssignment.Domain\bin\Debug\net6.0\MixedAssignment.Domain.pdb
+C:\Users\HP\Desktop\ECOMM\MixedAssignment\MixedAssignment.Domain\obj\Debug\net6.0\MixedAssignment.Domain.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\ECOMM\MixedAssignment\MixedAssignment.Domain\obj\Debug\net6.0\MixedAssignment.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\ECOMM\MixedAssignment\MixedAssignment.Domain\obj\Debug\net6.0\MixedAssignment.Domain.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\ECOMM\MixedAssignment\MixedAssignment.Domain\obj\Debug\net6.0\MixedAssignment.Domain.AssemblyInfo.cs
+C:\Users\HP\Desktop\ECOMM\MixedAssignment\MixedAssignment.Domain\obj\Debug\net6.0\MixedAssignment.Domain.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\ECOMM\MixedAssignment\MixedAssignment.Domain\obj\Debug\net6.0\MixedAssignment.Domain.dll
+C:\Users\HP\Desktop\ECOMM\MixedAssignment\MixedAssignment.Domain\obj\Debug\net6.0\refint\MixedAssignment.Domain.dll
+C:\Users\HP\Desktop\ECOMM\MixedAssignment\MixedAssignment.Domain\obj\Debug\net6.0\MixedAssignment.Domain.pdb
+C:\Users\HP\Desktop\ECOMM\MixedAssignment\MixedAssignment.Domain\obj\Debug\net6.0\MixedAssignment.Domain.genruntimeconfig.cache
+C:\Users\HP\Desktop\ECOMM\MixedAssignment\MixedAssignment.Domain\obj\Debug\net6.0\ref\MixedAssignment.Domain.dll
+C:\Users\amangaidhane\Desktop\ECom\Home Work Monday16\MixedAssignment\MixedAssignment.Domain\bin\Debug\net6.0\MixedAssignment.Domain.deps.json
+C:\Users\amangaidhane\Desktop\ECom\Home Work Monday16\MixedAssignment\MixedAssignment.Domain\bin\Debug\net6.0\MixedAssignment.Domain.runtimeconfig.json
+C:\Users\amangaidhane\Desktop\ECom\Home Work Monday16\MixedAssignment\MixedAssignment.Domain\bin\Debug\net6.0\MixedAssignment.Domain.dll
+C:\Users\amangaidhane\Desktop\ECom\Home Work Monday16\MixedAssignment\MixedAssignment.Domain\bin\Debug\net6.0\MixedAssignment.Domain.pdb
+C:\Users\amangaidhane\Desktop\ECom\Home Work Monday16\MixedAssignment\MixedAssignment.Domain\obj\Debug\net6.0\MixedAssignment.Domain.csproj.AssemblyReference.cache
+C:\Users\amangaidhane\Desktop\ECom\Home Work Monday16\MixedAssignment\MixedAssignment.Domain\obj\Debug\net6.0\MixedAssignment.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amangaidhane\Desktop\ECom\Home Work Monday16\MixedAssignment\MixedAssignment.Domain\obj\Debug\net6.0\MixedAssignment.Domain.AssemblyInfoInputs.cache
+C:\Users\amangaidhane\Desktop\ECom\Home Work Monday16\MixedAssignment\MixedAssignment.Domain\obj\Debug\net6.0\MixedAssignment.Domain.AssemblyInfo.cs
+C:\Users\amangaidhane\Desktop\ECom\Home Work Monday16\MixedAssignment\MixedAssignment.Domain\obj\Debug\net6.0\MixedAssignment.Domain.csproj.CoreCompileInputs.cache
+C:\Users\amangaidhane\Desktop\ECom\Home Work Monday16\MixedAssignment\MixedAssignment.Domain\obj\Debug\net6.0\MixedAssignment.Domain.dll
+C:\Users\amangaidhane\Desktop\ECom\Home Work Monday16\MixedAssignment\MixedAssignment.Domain\obj\Debug\net6.0\refint\MixedAssignment.Domain.dll
+C:\Users\amangaidhane\Desktop\ECom\Home Work Monday16\MixedAssignment\MixedAssignment.Domain\obj\Debug\net6.0\MixedAssignment.Domain.pdb
+C:\Users\amangaidhane\Desktop\ECom\Home Work Monday16\MixedAssignment\MixedAssignment.Domain\obj\Debug\net6.0\MixedAssignment.Domain.genruntimeconfig.cache
+C:\Users\amangaidhane\Desktop\ECom\Home Work Monday16\MixedAssignment\MixedAssignment.Domain\obj\Debug\net6.0\ref\MixedAssignment.Domain.dll
+C:\Users\amangaidhane\Desktop\ECom\Home Work Monday18\MixedAssignment\MixedAssignment.Domain\bin\Debug\net6.0\MixedAssignment.Domain.deps.json
+C:\Users\amangaidhane\Desktop\ECom\Home Work Monday18\MixedAssignment\MixedAssignment.Domain\bin\Debug\net6.0\MixedAssignment.Domain.runtimeconfig.json
+C:\Users\amangaidhane\Desktop\ECom\Home Work Monday18\MixedAssignment\MixedAssignment.Domain\bin\Debug\net6.0\MixedAssignment.Domain.dll
+C:\Users\amangaidhane\Desktop\ECom\Home Work Monday18\MixedAssignment\MixedAssignment.Domain\bin\Debug\net6.0\MixedAssignment.Domain.pdb
+C:\Users\amangaidhane\Desktop\ECom\Home Work Monday18\MixedAssignment\MixedAssignment.Domain\obj\Debug\net6.0\MixedAssignment.Domain.csproj.AssemblyReference.cache
+C:\Users\amangaidhane\Desktop\ECom\Home Work Monday18\MixedAssignment\MixedAssignment.Domain\obj\Debug\net6.0\MixedAssignment.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amangaidhane\Desktop\ECom\Home Work Monday18\MixedAssignment\MixedAssignment.Domain\obj\Debug\net6.0\MixedAssignment.Domain.AssemblyInfoInputs.cache
+C:\Users\amangaidhane\Desktop\ECom\Home Work Monday18\MixedAssignment\MixedAssignment.Domain\obj\Debug\net6.0\MixedAssignment.Domain.AssemblyInfo.cs
+C:\Users\amangaidhane\Desktop\ECom\Home Work Monday18\MixedAssignment\MixedAssignment.Domain\obj\Debug\net6.0\MixedAssignment.Domain.csproj.CoreCompileInputs.cache
+C:\Users\amangaidhane\Desktop\ECom\Home Work Monday18\MixedAssignment\MixedAssignment.Domain\obj\Debug\net6.0\MixedAssignment.Domain.dll
+C:\Users\amangaidhane\Desktop\ECom\Home Work Monday18\MixedAssignment\MixedAssignment.Domain\obj\Debug\net6.0\refint\MixedAssignment.Domain.dll
+C:\Users\amangaidhane\Desktop\ECom\Home Work Monday18\MixedAssignment\MixedAssignment.Domain\obj\Debug\net6.0\MixedAssignment.Domain.pdb
+C:\Users\amangaidhane\Desktop\ECom\Home Work Monday18\MixedAssignment\MixedAssignment.Domain\obj\Debug\net6.0\MixedAssignment.Domain.genruntimeconfig.cache
+C:\Users\amangaidhane\Desktop\ECom\Home Work Monday18\MixedAssignment\MixedAssignment.Domain\obj\Debug\net6.0\ref\MixedAssignment.Domain.dll
+C:\Users\HP\Downloads\Home Work Monday18\MixedAssignment\MixedAssignment.Domain\bin\Debug\net6.0\MixedAssignment.Domain.deps.json
+C:\Users\HP\Downloads\Home Work Monday18\MixedAssignment\MixedAssignment.Domain\bin\Debug\net6.0\MixedAssignment.Domain.runtimeconfig.json
+C:\Users\HP\Downloads\Home Work Monday18\MixedAssignment\MixedAssignment.Domain\bin\Debug\net6.0\MixedAssignment.Domain.dll
+C:\Users\HP\Downloads\Home Work Monday18\MixedAssignment\MixedAssignment.Domain\bin\Debug\net6.0\MixedAssignment.Domain.pdb
+C:\Users\HP\Downloads\Home Work Monday18\MixedAssignment\MixedAssignment.Domain\obj\Debug\net6.0\MixedAssignment.Domain.csproj.AssemblyReference.cache
+C:\Users\HP\Downloads\Home Work Monday18\MixedAssignment\MixedAssignment.Domain\obj\Debug\net6.0\MixedAssignment.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Downloads\Home Work Monday18\MixedAssignment\MixedAssignment.Domain\obj\Debug\net6.0\MixedAssignment.Domain.AssemblyInfoInputs.cache
+C:\Users\HP\Downloads\Home Work Monday18\MixedAssignment\MixedAssignment.Domain\obj\Debug\net6.0\MixedAssignment.Domain.AssemblyInfo.cs
+C:\Users\HP\Downloads\Home Work Monday18\MixedAssignment\MixedAssignment.Domain\obj\Debug\net6.0\MixedAssignment.Domain.csproj.CoreCompileInputs.cache
+C:\Users\HP\Downloads\Home Work Monday18\MixedAssignment\MixedAssignment.Domain\obj\Debug\net6.0\MixedAssignment.Domain.dll
+C:\Users\HP\Downloads\Home Work Monday18\MixedAssignment\MixedAssignment.Domain\obj\Debug\net6.0\refint\MixedAssignment.Domain.dll
+C:\Users\HP\Downloads\Home Work Monday18\MixedAssignment\MixedAssignment.Domain\obj\Debug\net6.0\MixedAssignment.Domain.pdb
+C:\Users\HP\Downloads\Home Work Monday18\MixedAssignment\MixedAssignment.Domain\obj\Debug\net6.0\MixedAssignment.Domain.genruntimeconfig.cache
+C:\Users\HP\Downloads\Home Work Monday18\MixedAssignment\MixedAssignment.Domain\obj\Debug\net6.0\ref\MixedAssignment.Domain.dll

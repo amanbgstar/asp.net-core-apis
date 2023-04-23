@@ -1,0 +1,544 @@
+C:\Users\amangaidhane\Desktop\MixedAssignment_101022\MixedAssignment\MixedAssignment\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\amangaidhane\Desktop\MixedAssignment_101022\MixedAssignment\MixedAssignment\bin\Debug\net6.0\appsettings.json
+C:\Users\amangaidhane\Desktop\MixedAssignment_101022\MixedAssignment\MixedAssignment\bin\Debug\net6.0\MixedAssignment.exe
+C:\Users\amangaidhane\Desktop\MixedAssignment_101022\MixedAssignment\MixedAssignment\bin\Debug\net6.0\MixedAssignment.deps.json
+C:\Users\amangaidhane\Desktop\MixedAssignment_101022\MixedAssignment\MixedAssignment\bin\Debug\net6.0\MixedAssignment.runtimeconfig.json
+C:\Users\amangaidhane\Desktop\MixedAssignment_101022\MixedAssignment\MixedAssignment\bin\Debug\net6.0\MixedAssignment.dll
+C:\Users\amangaidhane\Desktop\MixedAssignment_101022\MixedAssignment\MixedAssignment\bin\Debug\net6.0\MixedAssignment.pdb
+C:\Users\amangaidhane\Desktop\MixedAssignment_101022\MixedAssignment\MixedAssignment\bin\Debug\net6.0\Humanizer.dll
+C:\Users\amangaidhane\Desktop\MixedAssignment_101022\MixedAssignment\MixedAssignment\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\amangaidhane\Desktop\MixedAssignment_101022\MixedAssignment\MixedAssignment\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\amangaidhane\Desktop\MixedAssignment_101022\MixedAssignment\MixedAssignment\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\amangaidhane\Desktop\MixedAssignment_101022\MixedAssignment\MixedAssignment\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\amangaidhane\Desktop\MixedAssignment_101022\MixedAssignment\MixedAssignment\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\amangaidhane\Desktop\MixedAssignment_101022\MixedAssignment\MixedAssignment\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\amangaidhane\Desktop\MixedAssignment_101022\MixedAssignment\MixedAssignment\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\amangaidhane\Desktop\MixedAssignment_101022\MixedAssignment\MixedAssignment\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\amangaidhane\Desktop\MixedAssignment_101022\MixedAssignment\MixedAssignment\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\amangaidhane\Desktop\MixedAssignment_101022\MixedAssignment\MixedAssignment\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\amangaidhane\Desktop\MixedAssignment_101022\MixedAssignment\MixedAssignment\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\amangaidhane\Desktop\MixedAssignment_101022\MixedAssignment\MixedAssignment\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\amangaidhane\Desktop\MixedAssignment_101022\MixedAssignment\MixedAssignment\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\amangaidhane\Desktop\MixedAssignment_101022\MixedAssignment\MixedAssignment\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\amangaidhane\Desktop\MixedAssignment_101022\MixedAssignment\MixedAssignment\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\amangaidhane\Desktop\MixedAssignment_101022\MixedAssignment\MixedAssignment\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\amangaidhane\Desktop\MixedAssignment_101022\MixedAssignment\MixedAssignment\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\amangaidhane\Desktop\MixedAssignment_101022\MixedAssignment\MixedAssignment\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\amangaidhane\Desktop\MixedAssignment_101022\MixedAssignment\MixedAssignment\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\amangaidhane\Desktop\MixedAssignment_101022\MixedAssignment\MixedAssignment\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\amangaidhane\Desktop\MixedAssignment_101022\MixedAssignment\MixedAssignment\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\amangaidhane\Desktop\MixedAssignment_101022\MixedAssignment\MixedAssignment\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\amangaidhane\Desktop\MixedAssignment_101022\MixedAssignment\MixedAssignment\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\amangaidhane\Desktop\MixedAssignment_101022\MixedAssignment\MixedAssignment\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\amangaidhane\Desktop\MixedAssignment_101022\MixedAssignment\MixedAssignment\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\amangaidhane\Desktop\MixedAssignment_101022\MixedAssignment\MixedAssignment\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\amangaidhane\Desktop\MixedAssignment_101022\MixedAssignment\MixedAssignment\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\amangaidhane\Desktop\MixedAssignment_101022\MixedAssignment\MixedAssignment\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\amangaidhane\Desktop\MixedAssignment_101022\MixedAssignment\MixedAssignment\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\amangaidhane\Desktop\MixedAssignment_101022\MixedAssignment\MixedAssignment\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\amangaidhane\Desktop\MixedAssignment_101022\MixedAssignment\MixedAssignment\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\amangaidhane\Desktop\MixedAssignment_101022\MixedAssignment\MixedAssignment\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\amangaidhane\Desktop\MixedAssignment_101022\MixedAssignment\MixedAssignment\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\amangaidhane\Desktop\MixedAssignment_101022\MixedAssignment\MixedAssignment\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\amangaidhane\Desktop\MixedAssignment_101022\MixedAssignment\MixedAssignment\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\amangaidhane\Desktop\MixedAssignment_101022\MixedAssignment\MixedAssignment\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\amangaidhane\Desktop\MixedAssignment_101022\MixedAssignment\MixedAssignment\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\amangaidhane\Desktop\MixedAssignment_101022\MixedAssignment\MixedAssignment\bin\Debug\net6.0\MixedAssignment.Domain.dll
+C:\Users\amangaidhane\Desktop\MixedAssignment_101022\MixedAssignment\MixedAssignment\bin\Debug\net6.0\MixedAssignment.Domain.pdb
+C:\Users\amangaidhane\Desktop\MixedAssignment_101022\MixedAssignment\MixedAssignment\obj\Debug\net6.0\MixedAssignment.csproj.AssemblyReference.cache
+C:\Users\amangaidhane\Desktop\MixedAssignment_101022\MixedAssignment\MixedAssignment\obj\Debug\net6.0\MixedAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amangaidhane\Desktop\MixedAssignment_101022\MixedAssignment\MixedAssignment\obj\Debug\net6.0\MixedAssignment.AssemblyInfoInputs.cache
+C:\Users\amangaidhane\Desktop\MixedAssignment_101022\MixedAssignment\MixedAssignment\obj\Debug\net6.0\MixedAssignment.AssemblyInfo.cs
+C:\Users\amangaidhane\Desktop\MixedAssignment_101022\MixedAssignment\MixedAssignment\obj\Debug\net6.0\MixedAssignment.csproj.CoreCompileInputs.cache
+C:\Users\amangaidhane\Desktop\MixedAssignment_101022\MixedAssignment\MixedAssignment\obj\Debug\net6.0\MixedAssignment.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\amangaidhane\Desktop\MixedAssignment_101022\MixedAssignment\MixedAssignment\obj\Debug\net6.0\MixedAssignment.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\amangaidhane\Desktop\MixedAssignment_101022\MixedAssignment\MixedAssignment\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\amangaidhane\Desktop\MixedAssignment_101022\MixedAssignment\MixedAssignment\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\amangaidhane\Desktop\MixedAssignment_101022\MixedAssignment\MixedAssignment\obj\Debug\net6.0\scopedcss\bundle\MixedAssignment.styles.css
+C:\Users\amangaidhane\Desktop\MixedAssignment_101022\MixedAssignment\MixedAssignment\obj\Debug\net6.0\MixedAssignment.csproj.CopyComplete
+C:\Users\amangaidhane\Desktop\MixedAssignment_101022\MixedAssignment\MixedAssignment\obj\Debug\net6.0\MixedAssignment.dll
+C:\Users\amangaidhane\Desktop\MixedAssignment_101022\MixedAssignment\MixedAssignment\obj\Debug\net6.0\refint\MixedAssignment.dll
+C:\Users\amangaidhane\Desktop\MixedAssignment_101022\MixedAssignment\MixedAssignment\obj\Debug\net6.0\MixedAssignment.pdb
+C:\Users\amangaidhane\Desktop\MixedAssignment_101022\MixedAssignment\MixedAssignment\obj\Debug\net6.0\MixedAssignment.genruntimeconfig.cache
+C:\Users\amangaidhane\Desktop\MixedAssignment_101022\MixedAssignment\MixedAssignment\obj\Debug\net6.0\ref\MixedAssignment.dll
+C:\Users\amangaidhane\Desktop\MixedAssignment_101022\MixedAssignment\MixedAssignment\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\amangaidhane\Desktop\MixedAssignment_101022\MixedAssignment\MixedAssignment\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\amangaidhane\Desktop\MixedAssignment_101022\MixedAssignment\MixedAssignment\bin\Debug\net6.0\MixedAssignment.Repository.dll
+C:\Users\amangaidhane\Desktop\MixedAssignment_101022\MixedAssignment\MixedAssignment\bin\Debug\net6.0\MixedAssignment.Service.dll
+C:\Users\amangaidhane\Desktop\MixedAssignment_101022\MixedAssignment\MixedAssignment\bin\Debug\net6.0\MixedAssignment.ViewModel.dll
+C:\Users\amangaidhane\Desktop\MixedAssignment_101022\MixedAssignment\MixedAssignment\bin\Debug\net6.0\MixedAssignment.Service.pdb
+C:\Users\amangaidhane\Desktop\MixedAssignment_101022\MixedAssignment\MixedAssignment\bin\Debug\net6.0\MixedAssignment.ViewModel.pdb
+C:\Users\amangaidhane\Desktop\MixedAssignment_101022\MixedAssignment\MixedAssignment\bin\Debug\net6.0\MixedAssignment.Repository.pdb
+C:\Users\amangaidhane\Desktop\MixedAssignment_101022\New\MixedAssignment\MixedAssignment\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\amangaidhane\Desktop\MixedAssignment_101022\New\MixedAssignment\MixedAssignment\bin\Debug\net6.0\appsettings.json
+C:\Users\amangaidhane\Desktop\MixedAssignment_101022\New\MixedAssignment\MixedAssignment\bin\Debug\net6.0\MixedAssignment.exe
+C:\Users\amangaidhane\Desktop\MixedAssignment_101022\New\MixedAssignment\MixedAssignment\bin\Debug\net6.0\MixedAssignment.deps.json
+C:\Users\amangaidhane\Desktop\MixedAssignment_101022\New\MixedAssignment\MixedAssignment\bin\Debug\net6.0\MixedAssignment.runtimeconfig.json
+C:\Users\amangaidhane\Desktop\MixedAssignment_101022\New\MixedAssignment\MixedAssignment\bin\Debug\net6.0\MixedAssignment.dll
+C:\Users\amangaidhane\Desktop\MixedAssignment_101022\New\MixedAssignment\MixedAssignment\bin\Debug\net6.0\MixedAssignment.pdb
+C:\Users\amangaidhane\Desktop\MixedAssignment_101022\New\MixedAssignment\MixedAssignment\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\amangaidhane\Desktop\MixedAssignment_101022\New\MixedAssignment\MixedAssignment\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\amangaidhane\Desktop\MixedAssignment_101022\New\MixedAssignment\MixedAssignment\bin\Debug\net6.0\Humanizer.dll
+C:\Users\amangaidhane\Desktop\MixedAssignment_101022\New\MixedAssignment\MixedAssignment\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\amangaidhane\Desktop\MixedAssignment_101022\New\MixedAssignment\MixedAssignment\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\amangaidhane\Desktop\MixedAssignment_101022\New\MixedAssignment\MixedAssignment\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\amangaidhane\Desktop\MixedAssignment_101022\New\MixedAssignment\MixedAssignment\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\amangaidhane\Desktop\MixedAssignment_101022\New\MixedAssignment\MixedAssignment\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\amangaidhane\Desktop\MixedAssignment_101022\New\MixedAssignment\MixedAssignment\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\amangaidhane\Desktop\MixedAssignment_101022\New\MixedAssignment\MixedAssignment\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\amangaidhane\Desktop\MixedAssignment_101022\New\MixedAssignment\MixedAssignment\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\amangaidhane\Desktop\MixedAssignment_101022\New\MixedAssignment\MixedAssignment\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\amangaidhane\Desktop\MixedAssignment_101022\New\MixedAssignment\MixedAssignment\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\amangaidhane\Desktop\MixedAssignment_101022\New\MixedAssignment\MixedAssignment\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\amangaidhane\Desktop\MixedAssignment_101022\New\MixedAssignment\MixedAssignment\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\amangaidhane\Desktop\MixedAssignment_101022\New\MixedAssignment\MixedAssignment\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\amangaidhane\Desktop\MixedAssignment_101022\New\MixedAssignment\MixedAssignment\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\amangaidhane\Desktop\MixedAssignment_101022\New\MixedAssignment\MixedAssignment\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\amangaidhane\Desktop\MixedAssignment_101022\New\MixedAssignment\MixedAssignment\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\amangaidhane\Desktop\MixedAssignment_101022\New\MixedAssignment\MixedAssignment\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\amangaidhane\Desktop\MixedAssignment_101022\New\MixedAssignment\MixedAssignment\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\amangaidhane\Desktop\MixedAssignment_101022\New\MixedAssignment\MixedAssignment\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\amangaidhane\Desktop\MixedAssignment_101022\New\MixedAssignment\MixedAssignment\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\amangaidhane\Desktop\MixedAssignment_101022\New\MixedAssignment\MixedAssignment\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\amangaidhane\Desktop\MixedAssignment_101022\New\MixedAssignment\MixedAssignment\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\amangaidhane\Desktop\MixedAssignment_101022\New\MixedAssignment\MixedAssignment\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\amangaidhane\Desktop\MixedAssignment_101022\New\MixedAssignment\MixedAssignment\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\amangaidhane\Desktop\MixedAssignment_101022\New\MixedAssignment\MixedAssignment\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\amangaidhane\Desktop\MixedAssignment_101022\New\MixedAssignment\MixedAssignment\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\amangaidhane\Desktop\MixedAssignment_101022\New\MixedAssignment\MixedAssignment\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\amangaidhane\Desktop\MixedAssignment_101022\New\MixedAssignment\MixedAssignment\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\amangaidhane\Desktop\MixedAssignment_101022\New\MixedAssignment\MixedAssignment\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\amangaidhane\Desktop\MixedAssignment_101022\New\MixedAssignment\MixedAssignment\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\amangaidhane\Desktop\MixedAssignment_101022\New\MixedAssignment\MixedAssignment\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\amangaidhane\Desktop\MixedAssignment_101022\New\MixedAssignment\MixedAssignment\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\amangaidhane\Desktop\MixedAssignment_101022\New\MixedAssignment\MixedAssignment\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\amangaidhane\Desktop\MixedAssignment_101022\New\MixedAssignment\MixedAssignment\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\amangaidhane\Desktop\MixedAssignment_101022\New\MixedAssignment\MixedAssignment\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\amangaidhane\Desktop\MixedAssignment_101022\New\MixedAssignment\MixedAssignment\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\amangaidhane\Desktop\MixedAssignment_101022\New\MixedAssignment\MixedAssignment\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\amangaidhane\Desktop\MixedAssignment_101022\New\MixedAssignment\MixedAssignment\bin\Debug\net6.0\MixedAssignment.Domain.dll
+C:\Users\amangaidhane\Desktop\MixedAssignment_101022\New\MixedAssignment\MixedAssignment\bin\Debug\net6.0\MixedAssignment.Repository.dll
+C:\Users\amangaidhane\Desktop\MixedAssignment_101022\New\MixedAssignment\MixedAssignment\bin\Debug\net6.0\MixedAssignment.Service.dll
+C:\Users\amangaidhane\Desktop\MixedAssignment_101022\New\MixedAssignment\MixedAssignment\bin\Debug\net6.0\MixedAssignment.ViewModel.dll
+C:\Users\amangaidhane\Desktop\MixedAssignment_101022\New\MixedAssignment\MixedAssignment\bin\Debug\net6.0\MixedAssignment.Domain.pdb
+C:\Users\amangaidhane\Desktop\MixedAssignment_101022\New\MixedAssignment\MixedAssignment\bin\Debug\net6.0\MixedAssignment.Service.pdb
+C:\Users\amangaidhane\Desktop\MixedAssignment_101022\New\MixedAssignment\MixedAssignment\bin\Debug\net6.0\MixedAssignment.ViewModel.pdb
+C:\Users\amangaidhane\Desktop\MixedAssignment_101022\New\MixedAssignment\MixedAssignment\bin\Debug\net6.0\MixedAssignment.Repository.pdb
+C:\Users\amangaidhane\Desktop\MixedAssignment_101022\New\MixedAssignment\MixedAssignment\obj\Debug\net6.0\MixedAssignment.csproj.AssemblyReference.cache
+C:\Users\amangaidhane\Desktop\MixedAssignment_101022\New\MixedAssignment\MixedAssignment\obj\Debug\net6.0\MixedAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amangaidhane\Desktop\MixedAssignment_101022\New\MixedAssignment\MixedAssignment\obj\Debug\net6.0\MixedAssignment.AssemblyInfoInputs.cache
+C:\Users\amangaidhane\Desktop\MixedAssignment_101022\New\MixedAssignment\MixedAssignment\obj\Debug\net6.0\MixedAssignment.AssemblyInfo.cs
+C:\Users\amangaidhane\Desktop\MixedAssignment_101022\New\MixedAssignment\MixedAssignment\obj\Debug\net6.0\MixedAssignment.csproj.CoreCompileInputs.cache
+C:\Users\amangaidhane\Desktop\MixedAssignment_101022\New\MixedAssignment\MixedAssignment\obj\Debug\net6.0\MixedAssignment.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\amangaidhane\Desktop\MixedAssignment_101022\New\MixedAssignment\MixedAssignment\obj\Debug\net6.0\MixedAssignment.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\amangaidhane\Desktop\MixedAssignment_101022\New\MixedAssignment\MixedAssignment\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\amangaidhane\Desktop\MixedAssignment_101022\New\MixedAssignment\MixedAssignment\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\amangaidhane\Desktop\MixedAssignment_101022\New\MixedAssignment\MixedAssignment\obj\Debug\net6.0\scopedcss\bundle\MixedAssignment.styles.css
+C:\Users\amangaidhane\Desktop\MixedAssignment_101022\New\MixedAssignment\MixedAssignment\obj\Debug\net6.0\MixedAssignment.csproj.CopyComplete
+C:\Users\amangaidhane\Desktop\MixedAssignment_101022\New\MixedAssignment\MixedAssignment\obj\Debug\net6.0\MixedAssignment.dll
+C:\Users\amangaidhane\Desktop\MixedAssignment_101022\New\MixedAssignment\MixedAssignment\obj\Debug\net6.0\refint\MixedAssignment.dll
+C:\Users\amangaidhane\Desktop\MixedAssignment_101022\New\MixedAssignment\MixedAssignment\obj\Debug\net6.0\MixedAssignment.pdb
+C:\Users\amangaidhane\Desktop\MixedAssignment_101022\New\MixedAssignment\MixedAssignment\obj\Debug\net6.0\MixedAssignment.genruntimeconfig.cache
+C:\Users\amangaidhane\Desktop\MixedAssignment_101022\New\MixedAssignment\MixedAssignment\obj\Debug\net6.0\ref\MixedAssignment.dll
+C:\Users\amangaidhane\Desktop\MixedAssignment_101022\New\MixedAssignment\MixedAssignment\bin\Debug\net6.0\MailKit.dll
+C:\Users\amangaidhane\Desktop\MixedAssignment_101022\New\MixedAssignment\MixedAssignment\bin\Debug\net6.0\MimeKit.dll
+C:\Users\amangaidhane\Desktop\MixedAssignment_101022\New\MixedAssignment\MixedAssignment\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+C:\Users\amangaidhane\Desktop\MixedAssignment_101022\New\MixedAssignment\MixedAssignment\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\amangaidhane\Desktop\MixedAssignment_101022\New\MixedAssignment\MixedAssignment\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\amangaidhane\Desktop\MixedAssignment_101022\New\MixedAssignment\MixedAssignment\bin\Debug\net6.0\Twilio.dll
+C:\Users\amangaidhane\Desktop\MixedAssignment_101022\New\MixedAssignment\MixedAssignment\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\amangaidhane\Desktop\MixedAssignment_101022\New\Backend\MixedAssignment\MixedAssignment\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\amangaidhane\Desktop\MixedAssignment_101022\New\Backend\MixedAssignment\MixedAssignment\bin\Debug\net6.0\appsettings.json
+C:\Users\amangaidhane\Desktop\MixedAssignment_101022\New\Backend\MixedAssignment\MixedAssignment\bin\Debug\net6.0\MixedAssignment.exe
+C:\Users\amangaidhane\Desktop\MixedAssignment_101022\New\Backend\MixedAssignment\MixedAssignment\bin\Debug\net6.0\MixedAssignment.deps.json
+C:\Users\amangaidhane\Desktop\MixedAssignment_101022\New\Backend\MixedAssignment\MixedAssignment\bin\Debug\net6.0\MixedAssignment.runtimeconfig.json
+C:\Users\amangaidhane\Desktop\MixedAssignment_101022\New\Backend\MixedAssignment\MixedAssignment\bin\Debug\net6.0\MixedAssignment.dll
+C:\Users\amangaidhane\Desktop\MixedAssignment_101022\New\Backend\MixedAssignment\MixedAssignment\bin\Debug\net6.0\MixedAssignment.pdb
+C:\Users\amangaidhane\Desktop\MixedAssignment_101022\New\Backend\MixedAssignment\MixedAssignment\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\amangaidhane\Desktop\MixedAssignment_101022\New\Backend\MixedAssignment\MixedAssignment\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\amangaidhane\Desktop\MixedAssignment_101022\New\Backend\MixedAssignment\MixedAssignment\bin\Debug\net6.0\Humanizer.dll
+C:\Users\amangaidhane\Desktop\MixedAssignment_101022\New\Backend\MixedAssignment\MixedAssignment\bin\Debug\net6.0\MailKit.dll
+C:\Users\amangaidhane\Desktop\MixedAssignment_101022\New\Backend\MixedAssignment\MixedAssignment\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\amangaidhane\Desktop\MixedAssignment_101022\New\Backend\MixedAssignment\MixedAssignment\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\amangaidhane\Desktop\MixedAssignment_101022\New\Backend\MixedAssignment\MixedAssignment\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\amangaidhane\Desktop\MixedAssignment_101022\New\Backend\MixedAssignment\MixedAssignment\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\amangaidhane\Desktop\MixedAssignment_101022\New\Backend\MixedAssignment\MixedAssignment\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\amangaidhane\Desktop\MixedAssignment_101022\New\Backend\MixedAssignment\MixedAssignment\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\amangaidhane\Desktop\MixedAssignment_101022\New\Backend\MixedAssignment\MixedAssignment\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\amangaidhane\Desktop\MixedAssignment_101022\New\Backend\MixedAssignment\MixedAssignment\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\amangaidhane\Desktop\MixedAssignment_101022\New\Backend\MixedAssignment\MixedAssignment\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\amangaidhane\Desktop\MixedAssignment_101022\New\Backend\MixedAssignment\MixedAssignment\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\amangaidhane\Desktop\MixedAssignment_101022\New\Backend\MixedAssignment\MixedAssignment\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\amangaidhane\Desktop\MixedAssignment_101022\New\Backend\MixedAssignment\MixedAssignment\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\amangaidhane\Desktop\MixedAssignment_101022\New\Backend\MixedAssignment\MixedAssignment\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\amangaidhane\Desktop\MixedAssignment_101022\New\Backend\MixedAssignment\MixedAssignment\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\amangaidhane\Desktop\MixedAssignment_101022\New\Backend\MixedAssignment\MixedAssignment\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\amangaidhane\Desktop\MixedAssignment_101022\New\Backend\MixedAssignment\MixedAssignment\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\amangaidhane\Desktop\MixedAssignment_101022\New\Backend\MixedAssignment\MixedAssignment\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\amangaidhane\Desktop\MixedAssignment_101022\New\Backend\MixedAssignment\MixedAssignment\bin\Debug\net6.0\MimeKit.dll
+C:\Users\amangaidhane\Desktop\MixedAssignment_101022\New\Backend\MixedAssignment\MixedAssignment\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\amangaidhane\Desktop\MixedAssignment_101022\New\Backend\MixedAssignment\MixedAssignment\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+C:\Users\amangaidhane\Desktop\MixedAssignment_101022\New\Backend\MixedAssignment\MixedAssignment\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\amangaidhane\Desktop\MixedAssignment_101022\New\Backend\MixedAssignment\MixedAssignment\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\amangaidhane\Desktop\MixedAssignment_101022\New\Backend\MixedAssignment\MixedAssignment\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\amangaidhane\Desktop\MixedAssignment_101022\New\Backend\MixedAssignment\MixedAssignment\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\amangaidhane\Desktop\MixedAssignment_101022\New\Backend\MixedAssignment\MixedAssignment\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\amangaidhane\Desktop\MixedAssignment_101022\New\Backend\MixedAssignment\MixedAssignment\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\amangaidhane\Desktop\MixedAssignment_101022\New\Backend\MixedAssignment\MixedAssignment\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\amangaidhane\Desktop\MixedAssignment_101022\New\Backend\MixedAssignment\MixedAssignment\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\amangaidhane\Desktop\MixedAssignment_101022\New\Backend\MixedAssignment\MixedAssignment\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\amangaidhane\Desktop\MixedAssignment_101022\New\Backend\MixedAssignment\MixedAssignment\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\amangaidhane\Desktop\MixedAssignment_101022\New\Backend\MixedAssignment\MixedAssignment\bin\Debug\net6.0\Twilio.dll
+C:\Users\amangaidhane\Desktop\MixedAssignment_101022\New\Backend\MixedAssignment\MixedAssignment\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\amangaidhane\Desktop\MixedAssignment_101022\New\Backend\MixedAssignment\MixedAssignment\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\amangaidhane\Desktop\MixedAssignment_101022\New\Backend\MixedAssignment\MixedAssignment\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\amangaidhane\Desktop\MixedAssignment_101022\New\Backend\MixedAssignment\MixedAssignment\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\amangaidhane\Desktop\MixedAssignment_101022\New\Backend\MixedAssignment\MixedAssignment\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\amangaidhane\Desktop\MixedAssignment_101022\New\Backend\MixedAssignment\MixedAssignment\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\amangaidhane\Desktop\MixedAssignment_101022\New\Backend\MixedAssignment\MixedAssignment\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\amangaidhane\Desktop\MixedAssignment_101022\New\Backend\MixedAssignment\MixedAssignment\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\amangaidhane\Desktop\MixedAssignment_101022\New\Backend\MixedAssignment\MixedAssignment\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\amangaidhane\Desktop\MixedAssignment_101022\New\Backend\MixedAssignment\MixedAssignment\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\amangaidhane\Desktop\MixedAssignment_101022\New\Backend\MixedAssignment\MixedAssignment\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\amangaidhane\Desktop\MixedAssignment_101022\New\Backend\MixedAssignment\MixedAssignment\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\amangaidhane\Desktop\MixedAssignment_101022\New\Backend\MixedAssignment\MixedAssignment\bin\Debug\net6.0\MixedAssignment.Domain.dll
+C:\Users\amangaidhane\Desktop\MixedAssignment_101022\New\Backend\MixedAssignment\MixedAssignment\bin\Debug\net6.0\MixedAssignment.Repository.dll
+C:\Users\amangaidhane\Desktop\MixedAssignment_101022\New\Backend\MixedAssignment\MixedAssignment\bin\Debug\net6.0\MixedAssignment.Service.dll
+C:\Users\amangaidhane\Desktop\MixedAssignment_101022\New\Backend\MixedAssignment\MixedAssignment\bin\Debug\net6.0\MixedAssignment.ViewModel.dll
+C:\Users\amangaidhane\Desktop\MixedAssignment_101022\New\Backend\MixedAssignment\MixedAssignment\bin\Debug\net6.0\MixedAssignment.Domain.pdb
+C:\Users\amangaidhane\Desktop\MixedAssignment_101022\New\Backend\MixedAssignment\MixedAssignment\bin\Debug\net6.0\MixedAssignment.Service.pdb
+C:\Users\amangaidhane\Desktop\MixedAssignment_101022\New\Backend\MixedAssignment\MixedAssignment\bin\Debug\net6.0\MixedAssignment.ViewModel.pdb
+C:\Users\amangaidhane\Desktop\MixedAssignment_101022\New\Backend\MixedAssignment\MixedAssignment\bin\Debug\net6.0\MixedAssignment.Repository.pdb
+C:\Users\amangaidhane\Desktop\MixedAssignment_101022\New\Backend\MixedAssignment\MixedAssignment\obj\Debug\net6.0\MixedAssignment.csproj.AssemblyReference.cache
+C:\Users\amangaidhane\Desktop\MixedAssignment_101022\New\Backend\MixedAssignment\MixedAssignment\obj\Debug\net6.0\MixedAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amangaidhane\Desktop\MixedAssignment_101022\New\Backend\MixedAssignment\MixedAssignment\obj\Debug\net6.0\MixedAssignment.AssemblyInfoInputs.cache
+C:\Users\amangaidhane\Desktop\MixedAssignment_101022\New\Backend\MixedAssignment\MixedAssignment\obj\Debug\net6.0\MixedAssignment.AssemblyInfo.cs
+C:\Users\amangaidhane\Desktop\MixedAssignment_101022\New\Backend\MixedAssignment\MixedAssignment\obj\Debug\net6.0\MixedAssignment.csproj.CoreCompileInputs.cache
+C:\Users\amangaidhane\Desktop\MixedAssignment_101022\New\Backend\MixedAssignment\MixedAssignment\obj\Debug\net6.0\MixedAssignment.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\amangaidhane\Desktop\MixedAssignment_101022\New\Backend\MixedAssignment\MixedAssignment\obj\Debug\net6.0\MixedAssignment.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\amangaidhane\Desktop\MixedAssignment_101022\New\Backend\MixedAssignment\MixedAssignment\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\amangaidhane\Desktop\MixedAssignment_101022\New\Backend\MixedAssignment\MixedAssignment\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\amangaidhane\Desktop\MixedAssignment_101022\New\Backend\MixedAssignment\MixedAssignment\obj\Debug\net6.0\scopedcss\bundle\MixedAssignment.styles.css
+C:\Users\amangaidhane\Desktop\MixedAssignment_101022\New\Backend\MixedAssignment\MixedAssignment\obj\Debug\net6.0\MixedAssignment.csproj.CopyComplete
+C:\Users\amangaidhane\Desktop\MixedAssignment_101022\New\Backend\MixedAssignment\MixedAssignment\obj\Debug\net6.0\MixedAssignment.dll
+C:\Users\amangaidhane\Desktop\MixedAssignment_101022\New\Backend\MixedAssignment\MixedAssignment\obj\Debug\net6.0\refint\MixedAssignment.dll
+C:\Users\amangaidhane\Desktop\MixedAssignment_101022\New\Backend\MixedAssignment\MixedAssignment\obj\Debug\net6.0\MixedAssignment.pdb
+C:\Users\amangaidhane\Desktop\MixedAssignment_101022\New\Backend\MixedAssignment\MixedAssignment\obj\Debug\net6.0\MixedAssignment.genruntimeconfig.cache
+C:\Users\amangaidhane\Desktop\MixedAssignment_101022\New\Backend\MixedAssignment\MixedAssignment\obj\Debug\net6.0\ref\MixedAssignment.dll
+C:\Users\HP\Desktop\ECOMM\MixedAssignment\MixedAssignment\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\HP\Desktop\ECOMM\MixedAssignment\MixedAssignment\bin\Debug\net6.0\appsettings.json
+C:\Users\HP\Desktop\ECOMM\MixedAssignment\MixedAssignment\bin\Debug\net6.0\MixedAssignment.exe
+C:\Users\HP\Desktop\ECOMM\MixedAssignment\MixedAssignment\bin\Debug\net6.0\MixedAssignment.deps.json
+C:\Users\HP\Desktop\ECOMM\MixedAssignment\MixedAssignment\bin\Debug\net6.0\MixedAssignment.runtimeconfig.json
+C:\Users\HP\Desktop\ECOMM\MixedAssignment\MixedAssignment\bin\Debug\net6.0\MixedAssignment.dll
+C:\Users\HP\Desktop\ECOMM\MixedAssignment\MixedAssignment\bin\Debug\net6.0\MixedAssignment.pdb
+C:\Users\HP\Desktop\ECOMM\MixedAssignment\MixedAssignment\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\HP\Desktop\ECOMM\MixedAssignment\MixedAssignment\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\HP\Desktop\ECOMM\MixedAssignment\MixedAssignment\bin\Debug\net6.0\Humanizer.dll
+C:\Users\HP\Desktop\ECOMM\MixedAssignment\MixedAssignment\bin\Debug\net6.0\MailKit.dll
+C:\Users\HP\Desktop\ECOMM\MixedAssignment\MixedAssignment\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\HP\Desktop\ECOMM\MixedAssignment\MixedAssignment\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\HP\Desktop\ECOMM\MixedAssignment\MixedAssignment\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\HP\Desktop\ECOMM\MixedAssignment\MixedAssignment\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\HP\Desktop\ECOMM\MixedAssignment\MixedAssignment\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\HP\Desktop\ECOMM\MixedAssignment\MixedAssignment\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\HP\Desktop\ECOMM\MixedAssignment\MixedAssignment\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\HP\Desktop\ECOMM\MixedAssignment\MixedAssignment\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\HP\Desktop\ECOMM\MixedAssignment\MixedAssignment\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\HP\Desktop\ECOMM\MixedAssignment\MixedAssignment\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\HP\Desktop\ECOMM\MixedAssignment\MixedAssignment\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\HP\Desktop\ECOMM\MixedAssignment\MixedAssignment\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\HP\Desktop\ECOMM\MixedAssignment\MixedAssignment\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\HP\Desktop\ECOMM\MixedAssignment\MixedAssignment\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\HP\Desktop\ECOMM\MixedAssignment\MixedAssignment\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\HP\Desktop\ECOMM\MixedAssignment\MixedAssignment\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\HP\Desktop\ECOMM\MixedAssignment\MixedAssignment\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\HP\Desktop\ECOMM\MixedAssignment\MixedAssignment\bin\Debug\net6.0\MimeKit.dll
+C:\Users\HP\Desktop\ECOMM\MixedAssignment\MixedAssignment\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\HP\Desktop\ECOMM\MixedAssignment\MixedAssignment\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+C:\Users\HP\Desktop\ECOMM\MixedAssignment\MixedAssignment\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\HP\Desktop\ECOMM\MixedAssignment\MixedAssignment\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\HP\Desktop\ECOMM\MixedAssignment\MixedAssignment\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\HP\Desktop\ECOMM\MixedAssignment\MixedAssignment\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\HP\Desktop\ECOMM\MixedAssignment\MixedAssignment\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\HP\Desktop\ECOMM\MixedAssignment\MixedAssignment\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\HP\Desktop\ECOMM\MixedAssignment\MixedAssignment\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\HP\Desktop\ECOMM\MixedAssignment\MixedAssignment\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\HP\Desktop\ECOMM\MixedAssignment\MixedAssignment\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\HP\Desktop\ECOMM\MixedAssignment\MixedAssignment\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\HP\Desktop\ECOMM\MixedAssignment\MixedAssignment\bin\Debug\net6.0\Twilio.dll
+C:\Users\HP\Desktop\ECOMM\MixedAssignment\MixedAssignment\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\HP\Desktop\ECOMM\MixedAssignment\MixedAssignment\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\HP\Desktop\ECOMM\MixedAssignment\MixedAssignment\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HP\Desktop\ECOMM\MixedAssignment\MixedAssignment\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HP\Desktop\ECOMM\MixedAssignment\MixedAssignment\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HP\Desktop\ECOMM\MixedAssignment\MixedAssignment\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HP\Desktop\ECOMM\MixedAssignment\MixedAssignment\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\HP\Desktop\ECOMM\MixedAssignment\MixedAssignment\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\HP\Desktop\ECOMM\MixedAssignment\MixedAssignment\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\HP\Desktop\ECOMM\MixedAssignment\MixedAssignment\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\HP\Desktop\ECOMM\MixedAssignment\MixedAssignment\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\HP\Desktop\ECOMM\MixedAssignment\MixedAssignment\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\HP\Desktop\ECOMM\MixedAssignment\MixedAssignment\bin\Debug\net6.0\MixedAssignment.Domain.dll
+C:\Users\HP\Desktop\ECOMM\MixedAssignment\MixedAssignment\bin\Debug\net6.0\MixedAssignment.Repository.dll
+C:\Users\HP\Desktop\ECOMM\MixedAssignment\MixedAssignment\bin\Debug\net6.0\MixedAssignment.Service.dll
+C:\Users\HP\Desktop\ECOMM\MixedAssignment\MixedAssignment\bin\Debug\net6.0\MixedAssignment.ViewModel.dll
+C:\Users\HP\Desktop\ECOMM\MixedAssignment\MixedAssignment\bin\Debug\net6.0\MixedAssignment.Domain.pdb
+C:\Users\HP\Desktop\ECOMM\MixedAssignment\MixedAssignment\bin\Debug\net6.0\MixedAssignment.Service.pdb
+C:\Users\HP\Desktop\ECOMM\MixedAssignment\MixedAssignment\bin\Debug\net6.0\MixedAssignment.ViewModel.pdb
+C:\Users\HP\Desktop\ECOMM\MixedAssignment\MixedAssignment\bin\Debug\net6.0\MixedAssignment.Repository.pdb
+C:\Users\HP\Desktop\ECOMM\MixedAssignment\MixedAssignment\obj\Debug\net6.0\MixedAssignment.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\ECOMM\MixedAssignment\MixedAssignment\obj\Debug\net6.0\MixedAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\ECOMM\MixedAssignment\MixedAssignment\obj\Debug\net6.0\MixedAssignment.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\ECOMM\MixedAssignment\MixedAssignment\obj\Debug\net6.0\MixedAssignment.AssemblyInfo.cs
+C:\Users\HP\Desktop\ECOMM\MixedAssignment\MixedAssignment\obj\Debug\net6.0\MixedAssignment.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\ECOMM\MixedAssignment\MixedAssignment\obj\Debug\net6.0\MixedAssignment.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\HP\Desktop\ECOMM\MixedAssignment\MixedAssignment\obj\Debug\net6.0\MixedAssignment.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\HP\Desktop\ECOMM\MixedAssignment\MixedAssignment\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\HP\Desktop\ECOMM\MixedAssignment\MixedAssignment\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\HP\Desktop\ECOMM\MixedAssignment\MixedAssignment\obj\Debug\net6.0\scopedcss\bundle\MixedAssignment.styles.css
+C:\Users\HP\Desktop\ECOMM\MixedAssignment\MixedAssignment\obj\Debug\net6.0\MixedAssignment.csproj.CopyComplete
+C:\Users\HP\Desktop\ECOMM\MixedAssignment\MixedAssignment\obj\Debug\net6.0\MixedAssignment.dll
+C:\Users\HP\Desktop\ECOMM\MixedAssignment\MixedAssignment\obj\Debug\net6.0\refint\MixedAssignment.dll
+C:\Users\HP\Desktop\ECOMM\MixedAssignment\MixedAssignment\obj\Debug\net6.0\MixedAssignment.pdb
+C:\Users\HP\Desktop\ECOMM\MixedAssignment\MixedAssignment\obj\Debug\net6.0\MixedAssignment.genruntimeconfig.cache
+C:\Users\HP\Desktop\ECOMM\MixedAssignment\MixedAssignment\obj\Debug\net6.0\ref\MixedAssignment.dll
+C:\Users\amangaidhane\Desktop\ECom\Home Work Monday16\MixedAssignment\MixedAssignment\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\amangaidhane\Desktop\ECom\Home Work Monday16\MixedAssignment\MixedAssignment\bin\Debug\net6.0\appsettings.json
+C:\Users\amangaidhane\Desktop\ECom\Home Work Monday16\MixedAssignment\MixedAssignment\bin\Debug\net6.0\MixedAssignment.exe
+C:\Users\amangaidhane\Desktop\ECom\Home Work Monday16\MixedAssignment\MixedAssignment\bin\Debug\net6.0\MixedAssignment.deps.json
+C:\Users\amangaidhane\Desktop\ECom\Home Work Monday16\MixedAssignment\MixedAssignment\bin\Debug\net6.0\MixedAssignment.runtimeconfig.json
+C:\Users\amangaidhane\Desktop\ECom\Home Work Monday16\MixedAssignment\MixedAssignment\bin\Debug\net6.0\MixedAssignment.dll
+C:\Users\amangaidhane\Desktop\ECom\Home Work Monday16\MixedAssignment\MixedAssignment\bin\Debug\net6.0\MixedAssignment.pdb
+C:\Users\amangaidhane\Desktop\ECom\Home Work Monday16\MixedAssignment\MixedAssignment\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\amangaidhane\Desktop\ECom\Home Work Monday16\MixedAssignment\MixedAssignment\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\amangaidhane\Desktop\ECom\Home Work Monday16\MixedAssignment\MixedAssignment\bin\Debug\net6.0\Humanizer.dll
+C:\Users\amangaidhane\Desktop\ECom\Home Work Monday16\MixedAssignment\MixedAssignment\bin\Debug\net6.0\MailKit.dll
+C:\Users\amangaidhane\Desktop\ECom\Home Work Monday16\MixedAssignment\MixedAssignment\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\amangaidhane\Desktop\ECom\Home Work Monday16\MixedAssignment\MixedAssignment\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\amangaidhane\Desktop\ECom\Home Work Monday16\MixedAssignment\MixedAssignment\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\amangaidhane\Desktop\ECom\Home Work Monday16\MixedAssignment\MixedAssignment\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\amangaidhane\Desktop\ECom\Home Work Monday16\MixedAssignment\MixedAssignment\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\amangaidhane\Desktop\ECom\Home Work Monday16\MixedAssignment\MixedAssignment\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\amangaidhane\Desktop\ECom\Home Work Monday16\MixedAssignment\MixedAssignment\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\amangaidhane\Desktop\ECom\Home Work Monday16\MixedAssignment\MixedAssignment\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\amangaidhane\Desktop\ECom\Home Work Monday16\MixedAssignment\MixedAssignment\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\amangaidhane\Desktop\ECom\Home Work Monday16\MixedAssignment\MixedAssignment\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\amangaidhane\Desktop\ECom\Home Work Monday16\MixedAssignment\MixedAssignment\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\amangaidhane\Desktop\ECom\Home Work Monday16\MixedAssignment\MixedAssignment\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\amangaidhane\Desktop\ECom\Home Work Monday16\MixedAssignment\MixedAssignment\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\amangaidhane\Desktop\ECom\Home Work Monday16\MixedAssignment\MixedAssignment\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\amangaidhane\Desktop\ECom\Home Work Monday16\MixedAssignment\MixedAssignment\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\amangaidhane\Desktop\ECom\Home Work Monday16\MixedAssignment\MixedAssignment\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\amangaidhane\Desktop\ECom\Home Work Monday16\MixedAssignment\MixedAssignment\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\amangaidhane\Desktop\ECom\Home Work Monday16\MixedAssignment\MixedAssignment\bin\Debug\net6.0\MimeKit.dll
+C:\Users\amangaidhane\Desktop\ECom\Home Work Monday16\MixedAssignment\MixedAssignment\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\amangaidhane\Desktop\ECom\Home Work Monday16\MixedAssignment\MixedAssignment\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+C:\Users\amangaidhane\Desktop\ECom\Home Work Monday16\MixedAssignment\MixedAssignment\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\amangaidhane\Desktop\ECom\Home Work Monday16\MixedAssignment\MixedAssignment\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\amangaidhane\Desktop\ECom\Home Work Monday16\MixedAssignment\MixedAssignment\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\amangaidhane\Desktop\ECom\Home Work Monday16\MixedAssignment\MixedAssignment\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\amangaidhane\Desktop\ECom\Home Work Monday16\MixedAssignment\MixedAssignment\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\amangaidhane\Desktop\ECom\Home Work Monday16\MixedAssignment\MixedAssignment\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\amangaidhane\Desktop\ECom\Home Work Monday16\MixedAssignment\MixedAssignment\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\amangaidhane\Desktop\ECom\Home Work Monday16\MixedAssignment\MixedAssignment\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\amangaidhane\Desktop\ECom\Home Work Monday16\MixedAssignment\MixedAssignment\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\amangaidhane\Desktop\ECom\Home Work Monday16\MixedAssignment\MixedAssignment\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\amangaidhane\Desktop\ECom\Home Work Monday16\MixedAssignment\MixedAssignment\bin\Debug\net6.0\Twilio.dll
+C:\Users\amangaidhane\Desktop\ECom\Home Work Monday16\MixedAssignment\MixedAssignment\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\amangaidhane\Desktop\ECom\Home Work Monday16\MixedAssignment\MixedAssignment\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\amangaidhane\Desktop\ECom\Home Work Monday16\MixedAssignment\MixedAssignment\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\amangaidhane\Desktop\ECom\Home Work Monday16\MixedAssignment\MixedAssignment\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\amangaidhane\Desktop\ECom\Home Work Monday16\MixedAssignment\MixedAssignment\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\amangaidhane\Desktop\ECom\Home Work Monday16\MixedAssignment\MixedAssignment\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\amangaidhane\Desktop\ECom\Home Work Monday16\MixedAssignment\MixedAssignment\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\amangaidhane\Desktop\ECom\Home Work Monday16\MixedAssignment\MixedAssignment\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\amangaidhane\Desktop\ECom\Home Work Monday16\MixedAssignment\MixedAssignment\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\amangaidhane\Desktop\ECom\Home Work Monday16\MixedAssignment\MixedAssignment\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\amangaidhane\Desktop\ECom\Home Work Monday16\MixedAssignment\MixedAssignment\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\amangaidhane\Desktop\ECom\Home Work Monday16\MixedAssignment\MixedAssignment\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\amangaidhane\Desktop\ECom\Home Work Monday16\MixedAssignment\MixedAssignment\bin\Debug\net6.0\MixedAssignment.Domain.dll
+C:\Users\amangaidhane\Desktop\ECom\Home Work Monday16\MixedAssignment\MixedAssignment\bin\Debug\net6.0\MixedAssignment.Repository.dll
+C:\Users\amangaidhane\Desktop\ECom\Home Work Monday16\MixedAssignment\MixedAssignment\bin\Debug\net6.0\MixedAssignment.Service.dll
+C:\Users\amangaidhane\Desktop\ECom\Home Work Monday16\MixedAssignment\MixedAssignment\bin\Debug\net6.0\MixedAssignment.ViewModel.dll
+C:\Users\amangaidhane\Desktop\ECom\Home Work Monday16\MixedAssignment\MixedAssignment\bin\Debug\net6.0\MixedAssignment.Domain.pdb
+C:\Users\amangaidhane\Desktop\ECom\Home Work Monday16\MixedAssignment\MixedAssignment\bin\Debug\net6.0\MixedAssignment.Service.pdb
+C:\Users\amangaidhane\Desktop\ECom\Home Work Monday16\MixedAssignment\MixedAssignment\bin\Debug\net6.0\MixedAssignment.ViewModel.pdb
+C:\Users\amangaidhane\Desktop\ECom\Home Work Monday16\MixedAssignment\MixedAssignment\bin\Debug\net6.0\MixedAssignment.Repository.pdb
+C:\Users\amangaidhane\Desktop\ECom\Home Work Monday16\MixedAssignment\MixedAssignment\obj\Debug\net6.0\MixedAssignment.csproj.AssemblyReference.cache
+C:\Users\amangaidhane\Desktop\ECom\Home Work Monday16\MixedAssignment\MixedAssignment\obj\Debug\net6.0\MixedAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amangaidhane\Desktop\ECom\Home Work Monday16\MixedAssignment\MixedAssignment\obj\Debug\net6.0\MixedAssignment.AssemblyInfoInputs.cache
+C:\Users\amangaidhane\Desktop\ECom\Home Work Monday16\MixedAssignment\MixedAssignment\obj\Debug\net6.0\MixedAssignment.AssemblyInfo.cs
+C:\Users\amangaidhane\Desktop\ECom\Home Work Monday16\MixedAssignment\MixedAssignment\obj\Debug\net6.0\MixedAssignment.csproj.CoreCompileInputs.cache
+C:\Users\amangaidhane\Desktop\ECom\Home Work Monday16\MixedAssignment\MixedAssignment\obj\Debug\net6.0\MixedAssignment.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\amangaidhane\Desktop\ECom\Home Work Monday16\MixedAssignment\MixedAssignment\obj\Debug\net6.0\MixedAssignment.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\amangaidhane\Desktop\ECom\Home Work Monday16\MixedAssignment\MixedAssignment\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\amangaidhane\Desktop\ECom\Home Work Monday16\MixedAssignment\MixedAssignment\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\amangaidhane\Desktop\ECom\Home Work Monday16\MixedAssignment\MixedAssignment\obj\Debug\net6.0\scopedcss\bundle\MixedAssignment.styles.css
+C:\Users\amangaidhane\Desktop\ECom\Home Work Monday16\MixedAssignment\MixedAssignment\obj\Debug\net6.0\MixedAssignment.csproj.CopyComplete
+C:\Users\amangaidhane\Desktop\ECom\Home Work Monday16\MixedAssignment\MixedAssignment\obj\Debug\net6.0\MixedAssignment.dll
+C:\Users\amangaidhane\Desktop\ECom\Home Work Monday16\MixedAssignment\MixedAssignment\obj\Debug\net6.0\refint\MixedAssignment.dll
+C:\Users\amangaidhane\Desktop\ECom\Home Work Monday16\MixedAssignment\MixedAssignment\obj\Debug\net6.0\MixedAssignment.pdb
+C:\Users\amangaidhane\Desktop\ECom\Home Work Monday16\MixedAssignment\MixedAssignment\obj\Debug\net6.0\MixedAssignment.genruntimeconfig.cache
+C:\Users\amangaidhane\Desktop\ECom\Home Work Monday16\MixedAssignment\MixedAssignment\obj\Debug\net6.0\ref\MixedAssignment.dll
+C:\Users\amangaidhane\Desktop\ECom\Home Work Monday18\MixedAssignment\MixedAssignment\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\amangaidhane\Desktop\ECom\Home Work Monday18\MixedAssignment\MixedAssignment\bin\Debug\net6.0\appsettings.json
+C:\Users\amangaidhane\Desktop\ECom\Home Work Monday18\MixedAssignment\MixedAssignment\bin\Debug\net6.0\MixedAssignment.exe
+C:\Users\amangaidhane\Desktop\ECom\Home Work Monday18\MixedAssignment\MixedAssignment\bin\Debug\net6.0\MixedAssignment.deps.json
+C:\Users\amangaidhane\Desktop\ECom\Home Work Monday18\MixedAssignment\MixedAssignment\bin\Debug\net6.0\MixedAssignment.runtimeconfig.json
+C:\Users\amangaidhane\Desktop\ECom\Home Work Monday18\MixedAssignment\MixedAssignment\bin\Debug\net6.0\MixedAssignment.dll
+C:\Users\amangaidhane\Desktop\ECom\Home Work Monday18\MixedAssignment\MixedAssignment\bin\Debug\net6.0\MixedAssignment.pdb
+C:\Users\amangaidhane\Desktop\ECom\Home Work Monday18\MixedAssignment\MixedAssignment\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\amangaidhane\Desktop\ECom\Home Work Monday18\MixedAssignment\MixedAssignment\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\amangaidhane\Desktop\ECom\Home Work Monday18\MixedAssignment\MixedAssignment\bin\Debug\net6.0\Humanizer.dll
+C:\Users\amangaidhane\Desktop\ECom\Home Work Monday18\MixedAssignment\MixedAssignment\bin\Debug\net6.0\MailKit.dll
+C:\Users\amangaidhane\Desktop\ECom\Home Work Monday18\MixedAssignment\MixedAssignment\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\amangaidhane\Desktop\ECom\Home Work Monday18\MixedAssignment\MixedAssignment\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\amangaidhane\Desktop\ECom\Home Work Monday18\MixedAssignment\MixedAssignment\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\amangaidhane\Desktop\ECom\Home Work Monday18\MixedAssignment\MixedAssignment\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\amangaidhane\Desktop\ECom\Home Work Monday18\MixedAssignment\MixedAssignment\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\amangaidhane\Desktop\ECom\Home Work Monday18\MixedAssignment\MixedAssignment\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\amangaidhane\Desktop\ECom\Home Work Monday18\MixedAssignment\MixedAssignment\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\amangaidhane\Desktop\ECom\Home Work Monday18\MixedAssignment\MixedAssignment\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\amangaidhane\Desktop\ECom\Home Work Monday18\MixedAssignment\MixedAssignment\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\amangaidhane\Desktop\ECom\Home Work Monday18\MixedAssignment\MixedAssignment\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\amangaidhane\Desktop\ECom\Home Work Monday18\MixedAssignment\MixedAssignment\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\amangaidhane\Desktop\ECom\Home Work Monday18\MixedAssignment\MixedAssignment\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\amangaidhane\Desktop\ECom\Home Work Monday18\MixedAssignment\MixedAssignment\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\amangaidhane\Desktop\ECom\Home Work Monday18\MixedAssignment\MixedAssignment\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\amangaidhane\Desktop\ECom\Home Work Monday18\MixedAssignment\MixedAssignment\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\amangaidhane\Desktop\ECom\Home Work Monday18\MixedAssignment\MixedAssignment\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\amangaidhane\Desktop\ECom\Home Work Monday18\MixedAssignment\MixedAssignment\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\amangaidhane\Desktop\ECom\Home Work Monday18\MixedAssignment\MixedAssignment\bin\Debug\net6.0\MimeKit.dll
+C:\Users\amangaidhane\Desktop\ECom\Home Work Monday18\MixedAssignment\MixedAssignment\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\amangaidhane\Desktop\ECom\Home Work Monday18\MixedAssignment\MixedAssignment\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+C:\Users\amangaidhane\Desktop\ECom\Home Work Monday18\MixedAssignment\MixedAssignment\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\amangaidhane\Desktop\ECom\Home Work Monday18\MixedAssignment\MixedAssignment\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\amangaidhane\Desktop\ECom\Home Work Monday18\MixedAssignment\MixedAssignment\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\amangaidhane\Desktop\ECom\Home Work Monday18\MixedAssignment\MixedAssignment\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\amangaidhane\Desktop\ECom\Home Work Monday18\MixedAssignment\MixedAssignment\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\amangaidhane\Desktop\ECom\Home Work Monday18\MixedAssignment\MixedAssignment\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\amangaidhane\Desktop\ECom\Home Work Monday18\MixedAssignment\MixedAssignment\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\amangaidhane\Desktop\ECom\Home Work Monday18\MixedAssignment\MixedAssignment\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\amangaidhane\Desktop\ECom\Home Work Monday18\MixedAssignment\MixedAssignment\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\amangaidhane\Desktop\ECom\Home Work Monday18\MixedAssignment\MixedAssignment\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\amangaidhane\Desktop\ECom\Home Work Monday18\MixedAssignment\MixedAssignment\bin\Debug\net6.0\Twilio.dll
+C:\Users\amangaidhane\Desktop\ECom\Home Work Monday18\MixedAssignment\MixedAssignment\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\amangaidhane\Desktop\ECom\Home Work Monday18\MixedAssignment\MixedAssignment\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\amangaidhane\Desktop\ECom\Home Work Monday18\MixedAssignment\MixedAssignment\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\amangaidhane\Desktop\ECom\Home Work Monday18\MixedAssignment\MixedAssignment\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\amangaidhane\Desktop\ECom\Home Work Monday18\MixedAssignment\MixedAssignment\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\amangaidhane\Desktop\ECom\Home Work Monday18\MixedAssignment\MixedAssignment\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\amangaidhane\Desktop\ECom\Home Work Monday18\MixedAssignment\MixedAssignment\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\amangaidhane\Desktop\ECom\Home Work Monday18\MixedAssignment\MixedAssignment\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\amangaidhane\Desktop\ECom\Home Work Monday18\MixedAssignment\MixedAssignment\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\amangaidhane\Desktop\ECom\Home Work Monday18\MixedAssignment\MixedAssignment\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\amangaidhane\Desktop\ECom\Home Work Monday18\MixedAssignment\MixedAssignment\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\amangaidhane\Desktop\ECom\Home Work Monday18\MixedAssignment\MixedAssignment\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\amangaidhane\Desktop\ECom\Home Work Monday18\MixedAssignment\MixedAssignment\bin\Debug\net6.0\MixedAssignment.Domain.dll
+C:\Users\amangaidhane\Desktop\ECom\Home Work Monday18\MixedAssignment\MixedAssignment\bin\Debug\net6.0\MixedAssignment.Repository.dll
+C:\Users\amangaidhane\Desktop\ECom\Home Work Monday18\MixedAssignment\MixedAssignment\bin\Debug\net6.0\MixedAssignment.Service.dll
+C:\Users\amangaidhane\Desktop\ECom\Home Work Monday18\MixedAssignment\MixedAssignment\bin\Debug\net6.0\MixedAssignment.ViewModel.dll
+C:\Users\amangaidhane\Desktop\ECom\Home Work Monday18\MixedAssignment\MixedAssignment\bin\Debug\net6.0\MixedAssignment.Domain.pdb
+C:\Users\amangaidhane\Desktop\ECom\Home Work Monday18\MixedAssignment\MixedAssignment\bin\Debug\net6.0\MixedAssignment.Service.pdb
+C:\Users\amangaidhane\Desktop\ECom\Home Work Monday18\MixedAssignment\MixedAssignment\bin\Debug\net6.0\MixedAssignment.ViewModel.pdb
+C:\Users\amangaidhane\Desktop\ECom\Home Work Monday18\MixedAssignment\MixedAssignment\bin\Debug\net6.0\MixedAssignment.Repository.pdb
+C:\Users\amangaidhane\Desktop\ECom\Home Work Monday18\MixedAssignment\MixedAssignment\obj\Debug\net6.0\MixedAssignment.csproj.AssemblyReference.cache
+C:\Users\amangaidhane\Desktop\ECom\Home Work Monday18\MixedAssignment\MixedAssignment\obj\Debug\net6.0\MixedAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amangaidhane\Desktop\ECom\Home Work Monday18\MixedAssignment\MixedAssignment\obj\Debug\net6.0\MixedAssignment.AssemblyInfoInputs.cache
+C:\Users\amangaidhane\Desktop\ECom\Home Work Monday18\MixedAssignment\MixedAssignment\obj\Debug\net6.0\MixedAssignment.AssemblyInfo.cs
+C:\Users\amangaidhane\Desktop\ECom\Home Work Monday18\MixedAssignment\MixedAssignment\obj\Debug\net6.0\MixedAssignment.csproj.CoreCompileInputs.cache
+C:\Users\amangaidhane\Desktop\ECom\Home Work Monday18\MixedAssignment\MixedAssignment\obj\Debug\net6.0\MixedAssignment.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\amangaidhane\Desktop\ECom\Home Work Monday18\MixedAssignment\MixedAssignment\obj\Debug\net6.0\MixedAssignment.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\amangaidhane\Desktop\ECom\Home Work Monday18\MixedAssignment\MixedAssignment\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\amangaidhane\Desktop\ECom\Home Work Monday18\MixedAssignment\MixedAssignment\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\amangaidhane\Desktop\ECom\Home Work Monday18\MixedAssignment\MixedAssignment\obj\Debug\net6.0\scopedcss\bundle\MixedAssignment.styles.css
+C:\Users\amangaidhane\Desktop\ECom\Home Work Monday18\MixedAssignment\MixedAssignment\obj\Debug\net6.0\MixedAssignment.csproj.CopyComplete
+C:\Users\amangaidhane\Desktop\ECom\Home Work Monday18\MixedAssignment\MixedAssignment\obj\Debug\net6.0\MixedAssignment.dll
+C:\Users\amangaidhane\Desktop\ECom\Home Work Monday18\MixedAssignment\MixedAssignment\obj\Debug\net6.0\refint\MixedAssignment.dll
+C:\Users\amangaidhane\Desktop\ECom\Home Work Monday18\MixedAssignment\MixedAssignment\obj\Debug\net6.0\MixedAssignment.pdb
+C:\Users\amangaidhane\Desktop\ECom\Home Work Monday18\MixedAssignment\MixedAssignment\obj\Debug\net6.0\MixedAssignment.genruntimeconfig.cache
+C:\Users\amangaidhane\Desktop\ECom\Home Work Monday18\MixedAssignment\MixedAssignment\obj\Debug\net6.0\ref\MixedAssignment.dll
+C:\Users\HP\Downloads\Home Work Monday18\MixedAssignment\MixedAssignment\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\HP\Downloads\Home Work Monday18\MixedAssignment\MixedAssignment\bin\Debug\net6.0\appsettings.json
+C:\Users\HP\Downloads\Home Work Monday18\MixedAssignment\MixedAssignment\bin\Debug\net6.0\MixedAssignment.exe
+C:\Users\HP\Downloads\Home Work Monday18\MixedAssignment\MixedAssignment\bin\Debug\net6.0\MixedAssignment.deps.json
+C:\Users\HP\Downloads\Home Work Monday18\MixedAssignment\MixedAssignment\bin\Debug\net6.0\MixedAssignment.runtimeconfig.json
+C:\Users\HP\Downloads\Home Work Monday18\MixedAssignment\MixedAssignment\bin\Debug\net6.0\MixedAssignment.dll
+C:\Users\HP\Downloads\Home Work Monday18\MixedAssignment\MixedAssignment\bin\Debug\net6.0\MixedAssignment.pdb
+C:\Users\HP\Downloads\Home Work Monday18\MixedAssignment\MixedAssignment\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\HP\Downloads\Home Work Monday18\MixedAssignment\MixedAssignment\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\HP\Downloads\Home Work Monday18\MixedAssignment\MixedAssignment\bin\Debug\net6.0\Humanizer.dll
+C:\Users\HP\Downloads\Home Work Monday18\MixedAssignment\MixedAssignment\bin\Debug\net6.0\MailKit.dll
+C:\Users\HP\Downloads\Home Work Monday18\MixedAssignment\MixedAssignment\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\HP\Downloads\Home Work Monday18\MixedAssignment\MixedAssignment\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\HP\Downloads\Home Work Monday18\MixedAssignment\MixedAssignment\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\HP\Downloads\Home Work Monday18\MixedAssignment\MixedAssignment\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\HP\Downloads\Home Work Monday18\MixedAssignment\MixedAssignment\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\HP\Downloads\Home Work Monday18\MixedAssignment\MixedAssignment\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\HP\Downloads\Home Work Monday18\MixedAssignment\MixedAssignment\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\HP\Downloads\Home Work Monday18\MixedAssignment\MixedAssignment\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\HP\Downloads\Home Work Monday18\MixedAssignment\MixedAssignment\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\HP\Downloads\Home Work Monday18\MixedAssignment\MixedAssignment\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\HP\Downloads\Home Work Monday18\MixedAssignment\MixedAssignment\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\HP\Downloads\Home Work Monday18\MixedAssignment\MixedAssignment\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\HP\Downloads\Home Work Monday18\MixedAssignment\MixedAssignment\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\HP\Downloads\Home Work Monday18\MixedAssignment\MixedAssignment\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\HP\Downloads\Home Work Monday18\MixedAssignment\MixedAssignment\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\HP\Downloads\Home Work Monday18\MixedAssignment\MixedAssignment\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\HP\Downloads\Home Work Monday18\MixedAssignment\MixedAssignment\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\HP\Downloads\Home Work Monday18\MixedAssignment\MixedAssignment\bin\Debug\net6.0\MimeKit.dll
+C:\Users\HP\Downloads\Home Work Monday18\MixedAssignment\MixedAssignment\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\HP\Downloads\Home Work Monday18\MixedAssignment\MixedAssignment\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+C:\Users\HP\Downloads\Home Work Monday18\MixedAssignment\MixedAssignment\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\HP\Downloads\Home Work Monday18\MixedAssignment\MixedAssignment\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\HP\Downloads\Home Work Monday18\MixedAssignment\MixedAssignment\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\HP\Downloads\Home Work Monday18\MixedAssignment\MixedAssignment\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\HP\Downloads\Home Work Monday18\MixedAssignment\MixedAssignment\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\HP\Downloads\Home Work Monday18\MixedAssignment\MixedAssignment\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\HP\Downloads\Home Work Monday18\MixedAssignment\MixedAssignment\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\HP\Downloads\Home Work Monday18\MixedAssignment\MixedAssignment\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\HP\Downloads\Home Work Monday18\MixedAssignment\MixedAssignment\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\HP\Downloads\Home Work Monday18\MixedAssignment\MixedAssignment\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\HP\Downloads\Home Work Monday18\MixedAssignment\MixedAssignment\bin\Debug\net6.0\Twilio.dll
+C:\Users\HP\Downloads\Home Work Monday18\MixedAssignment\MixedAssignment\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\HP\Downloads\Home Work Monday18\MixedAssignment\MixedAssignment\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\HP\Downloads\Home Work Monday18\MixedAssignment\MixedAssignment\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HP\Downloads\Home Work Monday18\MixedAssignment\MixedAssignment\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HP\Downloads\Home Work Monday18\MixedAssignment\MixedAssignment\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HP\Downloads\Home Work Monday18\MixedAssignment\MixedAssignment\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HP\Downloads\Home Work Monday18\MixedAssignment\MixedAssignment\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\HP\Downloads\Home Work Monday18\MixedAssignment\MixedAssignment\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\HP\Downloads\Home Work Monday18\MixedAssignment\MixedAssignment\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\HP\Downloads\Home Work Monday18\MixedAssignment\MixedAssignment\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\HP\Downloads\Home Work Monday18\MixedAssignment\MixedAssignment\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\HP\Downloads\Home Work Monday18\MixedAssignment\MixedAssignment\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\HP\Downloads\Home Work Monday18\MixedAssignment\MixedAssignment\bin\Debug\net6.0\MixedAssignment.Domain.dll
+C:\Users\HP\Downloads\Home Work Monday18\MixedAssignment\MixedAssignment\bin\Debug\net6.0\MixedAssignment.Repository.dll
+C:\Users\HP\Downloads\Home Work Monday18\MixedAssignment\MixedAssignment\bin\Debug\net6.0\MixedAssignment.Service.dll
+C:\Users\HP\Downloads\Home Work Monday18\MixedAssignment\MixedAssignment\bin\Debug\net6.0\MixedAssignment.ViewModel.dll
+C:\Users\HP\Downloads\Home Work Monday18\MixedAssignment\MixedAssignment\bin\Debug\net6.0\MixedAssignment.Domain.pdb
+C:\Users\HP\Downloads\Home Work Monday18\MixedAssignment\MixedAssignment\bin\Debug\net6.0\MixedAssignment.Service.pdb
+C:\Users\HP\Downloads\Home Work Monday18\MixedAssignment\MixedAssignment\bin\Debug\net6.0\MixedAssignment.ViewModel.pdb
+C:\Users\HP\Downloads\Home Work Monday18\MixedAssignment\MixedAssignment\bin\Debug\net6.0\MixedAssignment.Repository.pdb
+C:\Users\HP\Downloads\Home Work Monday18\MixedAssignment\MixedAssignment\obj\Debug\net6.0\MixedAssignment.csproj.AssemblyReference.cache
+C:\Users\HP\Downloads\Home Work Monday18\MixedAssignment\MixedAssignment\obj\Debug\net6.0\MixedAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Downloads\Home Work Monday18\MixedAssignment\MixedAssignment\obj\Debug\net6.0\MixedAssignment.AssemblyInfoInputs.cache
+C:\Users\HP\Downloads\Home Work Monday18\MixedAssignment\MixedAssignment\obj\Debug\net6.0\MixedAssignment.AssemblyInfo.cs
+C:\Users\HP\Downloads\Home Work Monday18\MixedAssignment\MixedAssignment\obj\Debug\net6.0\MixedAssignment.csproj.CoreCompileInputs.cache
+C:\Users\HP\Downloads\Home Work Monday18\MixedAssignment\MixedAssignment\obj\Debug\net6.0\MixedAssignment.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\HP\Downloads\Home Work Monday18\MixedAssignment\MixedAssignment\obj\Debug\net6.0\MixedAssignment.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\HP\Downloads\Home Work Monday18\MixedAssignment\MixedAssignment\obj\Debug\net6.0\staticwebassets\msbuild.MixedAssignment.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\HP\Downloads\Home Work Monday18\MixedAssignment\MixedAssignment\obj\Debug\net6.0\staticwebassets\msbuild.build.MixedAssignment.props
+C:\Users\HP\Downloads\Home Work Monday18\MixedAssignment\MixedAssignment\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.MixedAssignment.props
+C:\Users\HP\Downloads\Home Work Monday18\MixedAssignment\MixedAssignment\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.MixedAssignment.props
+C:\Users\HP\Downloads\Home Work Monday18\MixedAssignment\MixedAssignment\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\HP\Downloads\Home Work Monday18\MixedAssignment\MixedAssignment\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\HP\Downloads\Home Work Monday18\MixedAssignment\MixedAssignment\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\HP\Downloads\Home Work Monday18\MixedAssignment\MixedAssignment\obj\Debug\net6.0\scopedcss\bundle\MixedAssignment.styles.css
+C:\Users\HP\Downloads\Home Work Monday18\MixedAssignment\MixedAssignment\obj\Debug\net6.0\MixedAssignment.csproj.CopyComplete
+C:\Users\HP\Downloads\Home Work Monday18\MixedAssignment\MixedAssignment\obj\Debug\net6.0\MixedAssignment.dll
+C:\Users\HP\Downloads\Home Work Monday18\MixedAssignment\MixedAssignment\obj\Debug\net6.0\refint\MixedAssignment.dll
+C:\Users\HP\Downloads\Home Work Monday18\MixedAssignment\MixedAssignment\obj\Debug\net6.0\MixedAssignment.pdb
+C:\Users\HP\Downloads\Home Work Monday18\MixedAssignment\MixedAssignment\obj\Debug\net6.0\MixedAssignment.genruntimeconfig.cache
+C:\Users\HP\Downloads\Home Work Monday18\MixedAssignment\MixedAssignment\obj\Debug\net6.0\ref\MixedAssignment.dll
